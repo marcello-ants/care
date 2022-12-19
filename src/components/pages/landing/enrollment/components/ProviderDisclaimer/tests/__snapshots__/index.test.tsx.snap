@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProviderDisclaimerV1> matches snapshot 1`] = `
+<DocumentFragment>
+  <p
+    class="MuiTypography-root makeStyles-disclaimer1-8 makeStyles-disclaimer-1 MuiTypography-body1"
+  >
+    <span>
+      You must be 18 years or older to use Care.com. By clicking "Submit," you agree to our
+    </span>
+     
+    <a
+      class="MuiTypography-root MuiLink-root makeStyles-root-16 MuiLink-underlineNone MuiTypography-colorPrimary"
+      href="/terms-of-use-p1012.html"
+    />
+  </p>
+  <p
+    class="MuiTypography-root makeStyles-disclaimer1-8 MuiTypography-body1"
+  >
+    <a
+      class="MuiTypography-root MuiLink-root makeStyles-root-16 MuiLink-underlineNone MuiTypography-colorPrimary"
+      href="/terms-of-use-p1012.html"
+    >
+      Terms of Use
+    </a>
+  </p>
+   
+  <span>
+    and
+  </span>
+   
+  <a
+    class="MuiTypography-root MuiLink-root makeStyles-root-16 MuiLink-underlineNone MuiTypography-colorPrimary"
+    href="/privacy-policy-p1013.html"
+  >
+    <p
+      class="MuiTypography-root makeStyles-disclaimer1-8 MuiTypography-body1"
+    >
+      Privacy Policy
+    </p>
+  </a>
+  <span>
+    .
+  </span>
+  <p />
+</DocumentFragment>
+`;

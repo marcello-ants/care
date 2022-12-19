@@ -1,0 +1,332 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Enrollment> matches snapshot - Provider Form 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <p
+      class="MuiTypography-root makeStyles-display2-7 makeStyles-mainHeaderDesktop-2 MuiTypography-body1"
+    >
+      Find great care jobs now
+    </p>
+    <p
+      class="MuiTypography-root makeStyles-display3-8 makeStyles-mainHeaderMobile-3 MuiTypography-body1"
+    >
+      <span>
+        Find great 
+      </span>
+      <br />
+      <span>
+         care jobs now
+      </span>
+    </p>
+    <p
+      class="MuiTypography-root makeStyles-mainSubtitleDesktop-4 MuiTypography-body2"
+    >
+      <span>
+        Create a profile, and in a few minutes, you’ll have access to 
+      </span>
+      <br />
+      <span>
+        thousands of jobs in your area.
+      </span>
+    </p>
+    <p
+      class="MuiTypography-root makeStyles-mainSubtitleMobile-5 MuiTypography-body2"
+    >
+      <span>
+        Create a profile, and in a few minutes, 
+      </span>
+      <br />
+      <span>
+        you’ll have access to thousands of 
+      </span>
+      <br />
+      <span>
+        jobs in your area.
+      </span>
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-signUpMainContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <img
+      alt=""
+      src="/app/enrollment/caregiver.png"
+    />
+    <h2
+      class="MuiTypography-root makeStyles-sectionTitle-20 MuiTypography-h2"
+    >
+      <span>
+        What job are you most
+      </span>
+        
+      <span>
+        interested in?
+      </span>
+    </h2>
+    <div
+      class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-inputContainer-27 makeStyles-empty-26"
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby="mui-component-select-selectJobType"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+        id="mui-component-select-selectJobType"
+        role="button"
+        tabindex="0"
+      >
+        Select one:
+      </div>
+      <input
+        aria-hidden="true"
+        class="MuiSelect-nativeInput"
+        name="selectJobType"
+        tabindex="-1"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-29"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-sectionTitle-20 MuiTypography-h2"
+      >
+        <span>
+          Create your account
+        </span>
+        <p
+          class="MuiTypography-root makeStyles-disclaimer1-12 makeStyles-sectionTitleDisclaimer-21 MuiTypography-body1"
+        >
+          *required
+        </p>
+      </h2>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-30 makeStyles-inputContainer-22"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email*
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-35 makeStyles-inputsContainer-23"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="password"
+          id="password-label"
+        >
+          Password*
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="password"
+            name="password"
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-36 makeStyles-inputContainer-22"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="providerZip"
+          id="providerZip-label"
+        >
+          Zip code*
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="providerZip"
+            name="providerZip"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-37 makeStyles-inputContainer-22"
+    >
+      <div
+        class="MuiFormControl-root makeStyles-selectContainer-38"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="source"
+        >
+          How did you hear about us?
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline no-value MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="source"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="source"
+            role="button"
+            tabindex="-1"
+          >
+            Select option
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            name="howDidYouHearAboutUs"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-46"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+              fill="#223f5f"
+            />
+            <path
+              d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+              fill="#223f5f"
+            />
+          </svg>
+        </div>
+        <p
+          class="MuiFormHelperText-root"
+        >
+          <span>
+            ​
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-41"
+    >
+      <p
+        class="MuiTypography-root makeStyles-disclaimer1-12 makeStyles-disclaimer-42 MuiTypography-body1"
+      >
+        <span>
+          You must be 18 years or older to use Care.com. By clicking "Submit," you agree to our
+        </span>
+         
+        <a
+          class="MuiTypography-root MuiLink-root makeStyles-root-43 MuiLink-underlineNone MuiTypography-colorPrimary"
+          href="/terms-of-use-p1012.html"
+        />
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-disclaimer1-12 MuiTypography-body1"
+      >
+        <a
+          class="MuiTypography-root MuiLink-root makeStyles-root-43 MuiLink-underlineNone MuiTypography-colorPrimary"
+          href="/terms-of-use-p1012.html"
+        >
+          Terms of Use
+        </a>
+      </p>
+       
+      <span>
+        and
+      </span>
+       
+      <a
+        class="MuiTypography-root MuiLink-root makeStyles-root-43 MuiLink-underlineNone MuiTypography-colorPrimary"
+        href="/privacy-policy-p1013.html"
+      >
+        <p
+          class="MuiTypography-root makeStyles-disclaimer1-12 MuiTypography-body1"
+        >
+          Privacy Policy
+        </p>
+      </a>
+      <span>
+        .
+      </span>
+      <p />
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-submitButton-24 MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Join now
+      </span>
+    </button>
+    <p
+      class="MuiTypography-root makeStyles-companyInquiries-25 MuiTypography-body1"
+    >
+      <span>
+        For company inquiries
+      </span>
+       
+      <a
+        href="https://www.care.com/business-p1369-q59964639.html"
+      >
+        sign up here
+      </a>
+      <span>
+        .
+      </span>
+    </p>
+  </div>
+</DocumentFragment>
+`;

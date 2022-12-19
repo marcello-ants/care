@@ -1,0 +1,1307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Provider CC Profile Page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-gridContainer-1 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-20 MuiTypography-h2"
+      >
+        I’m willing to help with...
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-body3-24 MuiTypography-body1 MuiTypography-colorSecondary"
+      >
+        Select at least one
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-rootInline-35 makeStyles-selector-6 makeStyles-allItemsSelector-7 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.0"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="mealPreparation"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-47 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Cooking/meal prep
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.1"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="laundryAssistance"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-48 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Laundry
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.2"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="lightHousekeeping"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-49 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Light housekeeping
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.3"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="errands"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-50 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Errands
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.4"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="groceryShopping"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-51 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Grocery shopping
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.5"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="carpooling"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-52 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Carpool
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.6"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="craftAssistance"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-53 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Crafts
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.7"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="swimmingSupervision"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-54 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Swimming supervision
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.8"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="travel"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-55 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Travel
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.9"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="remoteLearningAssistance"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-56 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Remote learning
+            </p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-title-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+      >
+        Details about me
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-rootInline-35 makeStyles-selector-6 makeStyles-allItemsSelector-7 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.0"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="ownTransportation"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-57 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Have a car
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-39"
+            id="selector.undefined.1"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="comfortableWithPets"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-58 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Comfortable with pets
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+        >
+          <input
+            checked=""
+            class="makeStyles-input-39"
+            id="selector.undefined.2"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="smokes"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-59 makeStyles-controlIndicator-40 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Non Smoker
+            </p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-title-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+      >
+        COVID vaccination
+      </h4>
+      <p
+        class="MuiTypography-root makeStyles-body3-24 MuiTypography-body1 MuiTypography-colorSecondary"
+      >
+        Response required
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-vaccinationDescription-12 MuiTypography-body2"
+      >
+        Show I’m fully vaccinated against COVID-19
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-body3-24 MuiTypography-body1 MuiTypography-colorSecondary"
+      >
+        Families will see a badge on your profile indicating you’re fully vaccinated. They may ask for proof.
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-vaccinationSelectorWrapper-13 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-60 MuiListItem-gutters"
+        >
+          <input
+            id="selector.covidVaccination.0"
+            name="covidVaccination"
+            readonly=""
+            type="radio"
+            value="yes"
+          />
+          <span
+            class="control-indicator"
+          >
+            <span
+              class="makeStyles-indicator-61"
+            >
+              Yes
+            </span>
+          </span>
+          <span
+            class="control-label"
+          />
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-60 MuiListItem-gutters"
+        >
+          <input
+            id="selector.covidVaccination.1"
+            name="covidVaccination"
+            readonly=""
+            type="radio"
+            value="no"
+          />
+          <span
+            class="control-indicator"
+          >
+            <span
+              class="makeStyles-indicator-61"
+            >
+              No
+            </span>
+          </span>
+          <span
+            class="control-label"
+          />
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-experience-8 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-stepper-64"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root makeStyles-label-62 MuiInputLabel-animated"
+            >
+              Years of experience
+            </label>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"
+          >
+            <button
+              class="makeStyles-stepperButtons-66"
+              id="decrement"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-68"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  fill="#3b71aa"
+                  r="11.5"
+                />
+                <path
+                  d="M16.58 12.42H7.42a.42.42 0 010-.84h9.16a.42.42 0 110 .84z"
+                  fill="#fff"
+                  stroke="#fff"
+                  stroke-miterlimit="10"
+                  stroke-width=".7"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <input
+              class="makeStyles-stepperInput-67"
+              name="experience"
+              readonly=""
+              type="text"
+              value="1"
+            />
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-addBlock-65 MuiGrid-item MuiGrid-grid-xs-3"
+          >
+            <button
+              class="makeStyles-stepperButtons-66"
+              id="increment"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-69"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  fill="#3b71aa"
+                  r="11.5"
+                />
+                <path
+                  d="M12 17a.57.57 0 01-.57-.57V7.57a.57.57 0 011.14 0v8.86A.57.57 0 0112 17z"
+                  fill="#fff"
+                  stroke="#fff"
+                  stroke-miterlimit="10"
+                  stroke-width=".4"
+                />
+                <path
+                  d="M16.43 12.57H7.57a.57.57 0 010-1.14h8.86a.57.57 0 010 1.14z"
+                  fill="#fff"
+                  stroke="#fff"
+                  stroke-miterlimit="10"
+                  stroke-width=".4"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root makeStyles-optionLabel-63 MuiInputLabel-animated"
+            >
+              Year
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-title-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+      >
+        Education
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root makeStyles-education-3"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="education"
+        >
+          Highest level achieved
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-root-70 MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="education"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="education"
+            role="button"
+            tabindex="-1"
+          >
+            Select
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-113"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+              fill="#223f5f"
+            />
+            <path
+              d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+              fill="#223f5f"
+            />
+          </svg>
+        </div>
+        <p
+          class="MuiFormHelperText-root makeStyles-hidden-11"
+        >
+          Required
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-title-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+      >
+        Languages spoken
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-body3-24 MuiTypography-body1 MuiTypography-colorSecondary"
+      >
+        Select at least one
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-allItemsSelector-7 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <ul
+            class="MuiList-root makeStyles-rootInline-35 makeStyles-selector-73 MuiList-padding"
+          >
+            <li
+              class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+            >
+              <input
+                checked=""
+                class="makeStyles-input-39"
+                id="selector.undefined.0"
+                name=""
+                readonly=""
+                type="checkbox"
+                value="ENGLISH"
+              />
+              <div
+                class="MuiBox-root MuiBox-root-76 makeStyles-controlIndicator-40 sm"
+                tabindex="0"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2"
+                >
+                  English
+                </p>
+              </div>
+            </li>
+            <li
+              class="MuiListItem-root makeStyles-root-36 pill MuiListItem-gutters"
+            >
+              <input
+                class="makeStyles-input-39"
+                id="selector.undefined.1"
+                name=""
+                readonly=""
+                type="checkbox"
+                value="SPANISH"
+              />
+              <div
+                class="MuiBox-root MuiBox-root-77 makeStyles-controlIndicator-40 sm"
+                tabindex="0"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2"
+                >
+                  Spanish
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <button
+          class="makeStyles-addLanguageButton-72"
+          type="button"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+          >
+            Add another language
+          </p>
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-title-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+      >
+        Skills/Training
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-skillsContainer-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-root-78"
+      >
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-85"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Certified teacher
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-86"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              CPR training
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-87"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Early Child Development Coursework
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-88"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Experience with twins
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-89"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Experience with special needs children
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-90"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              First Aid training
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-91"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Child Development Associated (CDA)
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-92"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Early Childhood Education (EDE)
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-93"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Certified Nursing Assistant
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-94"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Certified Registered Nurse (RN)
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-95"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Doula certified
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-96"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              Trustine certified (CA only)
+            </span>
+          </label>
+        </div>
+        <div
+          class="listRow hidden"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-skillList-5 MuiFormControlLabel-labelPlacementStart"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-81 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-84"
+                  data-indeterminate="false"
+                  name="options"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-97"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            >
+              NAFCC certified
+            </span>
+          </label>
+        </div>
+        <button
+          class="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-79 MuiLink-button MuiTypography-colorPrimary"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-98"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+              fill="#223f5f"
+            />
+            <path
+              d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+              fill="#223f5f"
+            />
+          </svg>
+          <span
+            class="labelText"
+          >
+            Show more
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-9 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

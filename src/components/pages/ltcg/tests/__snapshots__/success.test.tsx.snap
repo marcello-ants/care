@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Success matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-animatedImage-5"
+    >
+      <img
+        alt="Success animation"
+        class="makeStyles-animationImage-6"
+        src="/app/enrollment/success-animation-2x.gif"
+      />
+    </div>
+    <h2
+      class="MuiTypography-root makeStyles-header-11 MuiTypography-h2"
+    >
+      Thanks for sharing your information! Here's what comes next:
+    </h2>
+    <p
+      class="MuiTypography-root makeStyles-subheader-1 MuiTypography-body2"
+    >
+       
+      <span>
+        Expect a call from our team within 1 business day. They are ready to help
+      </span>
+      <span>
+         you learn more about
+      </span>
+      <span>
+         the following:
+      </span>
+    </p>
+    <div
+      class="makeStyles-list-2"
+    >
+      <div
+        class="makeStyles-listItem-3"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-12 makeStyles-listIcon-4"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M10.27 16.83a1 1 0 01-.7-.3l-4.3-4.3a1 1 0 011.41-1.41l3.59 3.59 6.8-6.79A1 1 0 0118.48 9L11 16.53a1 1 0 01-.73.3z"
+            fill="#172c42"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Reviewing how reimbursement works.
+        </p>
+      </div>
+      <div
+        class="makeStyles-listItem-3"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-13 makeStyles-listIcon-4"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M10.27 16.83a1 1 0 01-.7-.3l-4.3-4.3a1 1 0 011.41-1.41l3.59 3.59 6.8-6.79A1 1 0 0118.48 9L11 16.53a1 1 0 01-.73.3z"
+            fill="#172c42"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Setting up payroll between you and your caregiver.
+        </p>
+      </div>
+      <div
+        class="makeStyles-listItem-3"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-14 makeStyles-listIcon-4"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M10.27 16.83a1 1 0 01-.7-.3l-4.3-4.3a1 1 0 011.41-1.41l3.59 3.59 6.8-6.79A1 1 0 0118.48 9L11 16.53a1 1 0 01-.73.3z"
+            fill="#172c42"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Ensuring your caregiver has the right tools to capture needed reimbursement information.
+        </p>
+      </div>
+    </div>
+    <div
+      class="makeStyles-root-15"
+    >
+      <div
+        class="makeStyles-content-16 makeStyles-information-20 makeStyles-roundCorners-18 makeStyles-fullWidth-17"
+      >
+        <div
+          class="makeStyles-icon-19"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-25"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M15.28 20.77a13.16 13.16 0 01-5.77-2.64c-.64-.48-1.28-1-1.84-1.52l-.08-.08a17.09 17.09 0 01-1.52-1.77 12.52 12.52 0 01-2.88-5.6 4.69 4.69 0 01.32-3.45 6 6 0 013-2.32 1.61 1.61 0 01.88-.24 1.71 1.71 0 011.44.72A21 21 0 0110.56 6a2.07 2.07 0 01.08 2.33 3.26 3.26 0 01-.48.88 1.18 1.18 0 00.08 1.52c.48.56 1 1 1.52 1.6s1 .88 1.52 1.28a1.69 1.69 0 00.8.32 1.54 1.54 0 00.8-.24c.32-.24.56-.48.8-.64a2 2 0 012.32 0c.72.48 1.45 1 2.25 1.68a2 2 0 01.56 2.41A6 6 0 0119.13 20a4 4 0 01-2.65.88c-.4-.03-.8-.11-1.2-.11zM7 4.43C4.55 5.55 3.83 6.67 4.31 8.92A12.54 12.54 0 007 14a15.93 15.93 0 001.52 1.68c.56.48 1.12 1 1.77 1.45a11.49 11.49 0 005.2 2.4 3.89 3.89 0 001 .08c1.6 0 2.57-.8 3.37-2.88a.88.88 0 00-.24-1l-.08-.08L17.36 14a1 1 0 00-1 0 6.92 6.92 0 01-.8.56 2.6 2.6 0 01-3.12-.08l-1.64-1.4-.08-.08c-.48-.56-1.05-1-1.53-1.6a2.28 2.28 0 010-2.88 4.86 4.86 0 01.56-.8.85.85 0 00-.08-1 19.06 19.06 0 00-1.76-2.13.62.62 0 00-.56-.24 3.46 3.46 0 00-.35.08z"
+              fill="#182c42"
+              stroke="#182c42"
+              stroke-miterlimit="10"
+              stroke-width=".2"
+            />
+          </svg>
+        </div>
+        <div>
+          <div>
+            <h3
+              class="MuiTypography-root MuiTypography-h3"
+            >
+              Be on the lookout for a call from us.
+            </h3>
+            <p
+              class="MuiTypography-root makeStyles-wantToSpeakWithSomeone-8 MuiTypography-body2"
+            >
+              Want to speak with someone immediately? 
+            </p>
+          </div>
+          <div
+            class="makeStyles-phoneNumberContainer-7 makeStyles-phoneNumberContainer-10"
+          >
+            <p
+              class="MuiTypography-root makeStyles-call-9 MuiTypography-body2"
+            >
+              Call
+            </p>
+            <a
+              class="MuiTypography-root MuiLink-root makeStyles-root-26 MuiLink-underlineNone MuiTypography-colorPrimary"
+              href="tel:877-367-1959"
+            >
+              <p
+                class="MuiTypography-root makeStyles-link2-40 MuiTypography-body1"
+              >
+                877-367-1959
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index should render snapshot 1`] = `
+<DocumentFragment>
+  <h2>
+    Senior Care
+  </h2>
+  <section>
+    <a
+      href="BASE_PATH/lead-and-connect"
+    >
+      Lead and Connect with a faked GQL Cache
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/seeker/sc"
+    >
+      Seeker Flow
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/provider/sc"
+    >
+      Provider Flow
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/ltcg/insurance-carrier"
+    >
+      LTCG Flow
+    </a>
+  </section>
+  <h2>
+    Child Care
+  </h2>
+  <section>
+    <a
+      href="BASE_PATH/seeker/cc"
+    >
+      Seeker Account Creation Flow
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/seeker/cc/schedule"
+    >
+      Post a job
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/seeker/dc/recommendations"
+    >
+      Daycare Recommendations
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/seeker/cc/tax-calculator"
+    >
+      Tax calculator
+    </a>
+  </section>
+  <section>
+    <a
+      href="BASE_PATH/provider/cc/"
+    >
+      Provider Flow
+    </a>
+  </section>
+  <h2>
+    Housekeeping
+  </h2>
+  <section>
+    <a
+      href="BASE_PATH/seeker/hk"
+    >
+      Housekeeping Seeker Flow
+    </a>
+  </section>
+  <h2>
+    Pet Care
+  </h2>
+  <section>
+    <a
+      href="BASE_PATH/seeker/pc"
+    >
+      Seeker Flow
+    </a>
+  </section>
+  <h2>
+    Tutoring
+  </h2>
+  <section>
+    <a
+      href="BASE_PATH/seeker/tu"
+    >
+      Tutoring Seeker Flow
+    </a>
+  </section>
+</DocumentFragment>
+`;

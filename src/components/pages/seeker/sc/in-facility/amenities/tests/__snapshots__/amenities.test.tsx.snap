@@ -1,0 +1,432 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Amenities /> Screen Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-4 MuiTypography-h2"
+      >
+        Communities often offer activities and amenities. Is your loved one interested in any of these?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-bodyText-2 MuiTypography-body2"
+      >
+        Select all that apply.
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-1 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.0"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="PET_FRIENDLY"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Pet friendly
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-35"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.1"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="ART_CLASSES"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Art classes
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-36"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.2"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="EXERCISE_GROUPS"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Exercise groups
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-37"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.3"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="COMMUNITY_DINING"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Community dining
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-38"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.4"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="LIBRARY"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Library
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-39"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-6 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-9"
+            id="selector.undefined.5"
+            name=""
+            readonly=""
+            type="checkbox"
+            value="BEAUTY_SALON"
+          />
+          <div
+            class="makeStyles-controlIndicator-10 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Beauty salon
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-checkboxContainer-12"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-31 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-34"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value=""
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-40"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                      fill="#23405f"
+                    />
+                  </svg>
+                </span>
+              </span>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="makeStyles-wrapper-41"
+    >
+      <div
+        class="makeStyles-fade-42"
+        style="position: relative; width: auto; margin-bottom: -24px; padding: 32px 40px 24px;"
+      >
+        <div
+          class="makeStyles-buttonContainer-3"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Next
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

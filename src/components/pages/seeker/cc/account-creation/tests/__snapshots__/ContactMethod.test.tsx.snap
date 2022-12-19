@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Method for daycare Matches snapshot and logs test exposure event 1`] = `
+<DocumentFragment>
+  <fieldset
+    class="MuiFormControl-root makeStyles-fieldsetRoot-1"
+  >
+    <h4
+      class="MuiTypography-root MuiTypography-h4"
+    >
+      Preferred contact method
+    </h4>
+    <div
+      aria-label="contactMethod"
+      class="MuiFormGroup-root MuiFormGroup-row"
+      role="radiogroup"
+    >
+      <label
+        class="MuiFormControlLabel-root makeStyles-labelFlex-2 makeStyles-root-17"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-21 MuiRadio-root makeStyles-root-18 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-24"
+              name="contactMethod"
+              type="radio"
+              value="PHONE"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-25"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+                fill="#fff"
+              />
+              <path
+                d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+                fill="#23405f"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Call me
+        </span>
+      </label>
+      <label
+        class="MuiFormControlLabel-root makeStyles-labelFlex-2 makeStyles-root-17"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-21 MuiRadio-root makeStyles-root-18 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-24"
+              name="contactMethod"
+              type="radio"
+              value="MAIL"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-26"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+                fill="#fff"
+              />
+              <path
+                d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+                fill="#23405f"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Email me
+        </span>
+      </label>
+    </div>
+    <p
+      class="MuiFormHelperText-root Mui-error"
+    />
+  </fieldset>
+</DocumentFragment>
+`;

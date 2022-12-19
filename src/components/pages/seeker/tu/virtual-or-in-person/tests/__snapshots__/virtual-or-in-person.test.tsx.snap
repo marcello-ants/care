@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Virtual Or In Person page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-3 MuiTypography-h2"
+      >
+        Do you prefer in person or online tutoring?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-1 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            checked=""
+            class="makeStyles-input-8"
+            id="selector.tutoringType.0"
+            name="tutoringType"
+            readonly=""
+            type="radio"
+            value="ONLINE"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-15"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-7 MuiTypography-h3"
+                >
+                  Online
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-19 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Widest selection of prices and expertise.
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.tutoringType.1"
+            name="tutoringType"
+            readonly=""
+            type="radio"
+            value="IN_PERSON"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-15"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-7 MuiTypography-h3"
+                >
+                  In Person
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-19 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Face-to-face with a tutor near you.
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.tutoringType.2"
+            name="tutoringType"
+            readonly=""
+            type="radio"
+            value="EITHER"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Either
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

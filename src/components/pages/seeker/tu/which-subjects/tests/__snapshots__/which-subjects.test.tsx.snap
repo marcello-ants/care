@@ -1,0 +1,354 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Which subjects page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-subjectsWrapper-4 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 MuiTypography-colorTextPrimary"
+      >
+        Which subjects do you need help with?
+      </h2>
+      <h3
+        class="MuiTypography-root makeStyles-sectionOneTitle-3 MuiTypography-h3 MuiTypography-colorTextPrimary"
+      >
+        Select all that apply
+      </h3>
+      <ul
+        class="MuiList-root makeStyles-rootInline-6 makeStyles-subjectsWrap-5 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.0"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="ART"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-18 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Art
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.1"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="BUSINESS"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-33 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Business
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.2"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="COMPUTERS"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-34 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Computers
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.3"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="DANCE"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-35 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Dance
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.4"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="ENGLISH"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-36 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              English
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.5"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="FOREIGN_LANGUAGE"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-37 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Foreign Language
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.6"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="MATH"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-38 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Math
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.7"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="MUSIC_AND_DRAMA"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-39 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Music & Drama
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.8"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="MUSICAL_INSTRUMENTS"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-40 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Musical Instruments
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.9"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="SCIENCE"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-41 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Science
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.10"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="SPECIAL_EDUCATION"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-42 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Special Education
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.11"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="SPORTS_AND_FITNESS"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-43 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Sports & Fitness
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.12"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="TEST_PREP"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-44 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Test Prep
+            </p>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-10"
+            id="selector.selectedSubjects.13"
+            name="selectedSubjects"
+            readonly=""
+            type="checkbox"
+            value="OTHER"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-45 makeStyles-controlIndicator-11 sm"
+            tabindex="0"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Other
+            </p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

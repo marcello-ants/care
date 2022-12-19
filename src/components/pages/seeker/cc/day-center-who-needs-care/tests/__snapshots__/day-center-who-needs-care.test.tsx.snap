@@ -1,0 +1,442 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Day Center - Who needs care? matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-1 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-4 MuiTypography-h2"
+      >
+        Who needs care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-childContainer-5 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h3
+        class="MuiTypography-root MuiTypography-h3"
+      >
+        Child 1
+      </h3>
+      <div
+        class="MuiGrid-root makeStyles-optionsContainer-7 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-10 makeStyles-monthSelect-11 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="month-select-label-0"
+          >
+            Birth month
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-8"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="month-select-label-0 month-select-child-0"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="month-select-child-0"
+              role="button"
+              tabindex="0"
+            >
+              <span>
+                ​
+              </span>
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[0].month"
+              tabindex="-1"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-31"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-10 makeStyles-yearSelect-12 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="year-select-label-0"
+          >
+            Birth year
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-8"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="year-select-label-0 year-select-child-0"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="year-select-child-0"
+              role="button"
+              tabindex="0"
+            >
+              <span>
+                ​
+              </span>
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[0].year"
+              tabindex="-1"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-32"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-addAnotherChildButton-3 MuiButton-outlinedSecondary MuiButton-outlinedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Add Another Child
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Day Center - Who needs care? matches snapshot with initial app state 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-33 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-34 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-36 MuiTypography-h2"
+      >
+        Who needs care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-childContainer-37 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h3
+        class="MuiTypography-root MuiTypography-h3"
+      >
+        Child 1
+      </h3>
+      <div
+        class="MuiGrid-root makeStyles-optionsContainer-39 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-42 makeStyles-monthSelect-43 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="month-select-label-0"
+          >
+            Birth month
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-40"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="month-select-label-0 month-select-child-0"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="month-select-child-0"
+              role="button"
+              tabindex="0"
+            >
+              January
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[0].month"
+              tabindex="-1"
+              value="1"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-65"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-42 makeStyles-yearSelect-44 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="year-select-label-0"
+          >
+            Birth year
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-40"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="year-select-label-0 year-select-child-0"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="year-select-child-0"
+              role="button"
+              tabindex="0"
+            >
+              2017
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[0].year"
+              tabindex="-1"
+              value="2017"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-66"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-childContainer-37 makeStyles-childContainerNth-38 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h3
+        class="MuiTypography-root MuiTypography-h3"
+      >
+        Child 2
+      </h3>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-removeChildButton-45"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Remove Child
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+      <div
+        class="MuiGrid-root makeStyles-optionsContainer-39 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-42 makeStyles-monthSelect-43 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="month-select-label-1"
+          >
+            Birth month
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-40"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="month-select-label-1 month-select-child-1"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="month-select-child-1"
+              role="button"
+              tabindex="0"
+            >
+              January
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[1].month"
+              tabindex="-1"
+              value="1"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-67"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectContainer-42 makeStyles-yearSelect-44 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+            id="year-select-label-1"
+          >
+            Birth year
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-fullWidth-40"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="year-select-label-1 year-select-child-1"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="year-select-child-1"
+              role="button"
+              tabindex="0"
+            >
+              2017
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="children[1].year"
+              tabindex="-1"
+              value="2017"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-68"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-addAnotherChildButton-35 MuiButton-outlinedSecondary MuiButton-outlinedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Add Another Child
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

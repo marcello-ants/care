@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/care-kind matches snapshot - Daycare View 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-45 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-50 MuiTypography-h2"
+      >
+        What kind of care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-44 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-52 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-55"
+            id="selector.careKind.0"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="DAY_CARE_CENTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-56 makeStyles-pillContent-46 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Daycare centers
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-52 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-55"
+            id="selector.careKind.1"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="PRESCHOOL_CENTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-56 makeStyles-pillContent-46 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Preschool centers
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-52 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-55"
+            id="selector.careKind.2"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="AFTER_SCHOOL_CENTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-56 makeStyles-pillContent-46 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  After school care
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-42 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`/care-kind matches snapshot - Default View 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-7 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-12 MuiTypography-h2"
+      >
+        What kind of care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-6 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-14 pill MuiListItem-gutters"
+        >
+          <input
+            checked=""
+            class="makeStyles-input-17"
+            id="selector.careKind.0"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="NANNIES_RECURRING_BABYSITTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-18 makeStyles-pillContent-8 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-24"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-16 makeStyles-pillLabel-9 MuiTypography-h3"
+                >
+                  Nannies / recurring sitters
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-28 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Hire for regular hours, ongoing care, full or part-time
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-14 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-17"
+            id="selector.careKind.1"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="ONE_TIME_BABYSITTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-18 makeStyles-pillContent-8 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-24"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-16 makeStyles-pillLabel-9 MuiTypography-h3"
+                >
+                  One-time sitters
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-28 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Instantly book for events, occasional plans or backup care
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-14 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-17"
+            id="selector.careKind.2"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="DAY_CARE_CENTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-18 makeStyles-pillContent-8 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-24"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-16 makeStyles-pillLabel-9 MuiTypography-h3"
+                >
+                  Daycare centers
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-28 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Find daycares, learning centers, or pre-schools near you
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`/care-kind should not render DAY_CARE_CENTERS option when enrollmentSource=semChildcare and in growth-childcare-dc-removal-test 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-581 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-586 MuiTypography-h2"
+      >
+        What kind of care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-580 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-588 pill MuiListItem-gutters"
+        >
+          <input
+            checked=""
+            class="makeStyles-input-591"
+            id="selector.careKind.0"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="NANNIES_RECURRING_BABYSITTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-592 makeStyles-pillContent-582 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-598"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-590 makeStyles-pillLabel-583 MuiTypography-h3"
+                >
+                  Nannies / recurring sitters
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-602 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Hire for regular hours, ongoing care, full or part-time
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-588 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-591"
+            id="selector.careKind.1"
+            name="careKind"
+            readonly=""
+            type="radio"
+            value="ONE_TIME_BABYSITTERS"
+          />
+          <div
+            class="makeStyles-controlIndicator-592 makeStyles-pillContent-582 lg"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div
+                class="makeStyles-labelAndDescription-598"
+              >
+                <h3
+                  class="MuiTypography-root makeStyles-label-590 makeStyles-pillLabel-583 MuiTypography-h3"
+                >
+                  One-time sitters
+                </h3>
+                <p
+                  class="MuiTypography-root makeStyles-body3-602 MuiTypography-body1 MuiTypography-colorSecondary"
+                >
+                  Instantly book for events, occasional plans or backup care
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-578 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

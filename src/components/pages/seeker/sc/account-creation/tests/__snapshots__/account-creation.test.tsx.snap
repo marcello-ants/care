@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`seeker account-creation page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-3 Component-root-1 Component-root-2"
+    state="entered"
+  >
+    <div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-10 makeStyles-invisibleMessageContainer-6 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <div
+          class="MuiCardContent-root makeStyles-message-4"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-40 makeStyles-messageIcon-7"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8.89 19.1a1 1 0 01-.74-.33l-5.22-5.85A1 1 0 013 11.51a1 1 0 011.42.08l4.47 5L19.34 5.37a1 1 0 111.46 1.36L9.62 18.78a1 1 0 01-.73.32z"
+              fill="#172c42"
+            />
+          </svg>
+          <h4
+            class="MuiTypography-root makeStyles-messageText-8 MuiTypography-h4"
+          >
+            We found 0 caregivers near you!
+          </h4>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <p
+            class="MuiTypography-root makeStyles-header-26 MuiTypography-body1"
+          >
+            Create a free account to see caregivers who match your needs.
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <h4
+            class="MuiTypography-root makeStyles-subheader-27 makeStyles-subheader-30 MuiTypography-h4"
+          >
+            It only takes a few seconds.
+          </h4>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="makeStyles-inputContainer-33"
+            >
+              <div
+                class="MuiFormControl-root MuiTextField-root makeStyles-inline-34"
+              >
+                <label
+                  class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+                  data-shrink="false"
+                  for="email"
+                  id="email-label"
+                >
+                  Email address
+                </label>
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiInput-input"
+                    id="email"
+                    name="email"
+                    type="email"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="makeStyles-buttonContainer-38 makeStyles-buttonContainer-39"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Continue
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

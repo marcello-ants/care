@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job Map Component should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-messageContainerStyle-1"
+      data-testid="job-map-label"
+    >
+      <div
+        class="makeStyles-messageStyle-2"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-messageTextStyle-3 MuiTypography-subtitle2"
+        >
+          <p
+            class="MuiTypography-root makeStyles-display1-6 makeStyles-countStyle-4 MuiTypography-body1"
+          >
+            5
+          </p>
+          <span
+            class="makeStyles-descriptionStyle-5"
+          >
+            child care jobs are near you!
+          </span>
+        </h6>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

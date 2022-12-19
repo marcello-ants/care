@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PolicyIneligible Page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-root-2"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 12a10 10 0 1110 10A10 10 0 012 12zm1.32 0a8.64 8.64 0 108.59-8.68A8.68 8.68 0 003.32 12z"
+          fill="#182c42"
+        />
+        <path
+          d="M12 17a.83.83 0 00.82-.83v-5.45a.83.83 0 10-1.65 0v5.45A.78.78 0 0012 17zM12 8.65a.83.83 0 10-.83-.82.82.82 0 00.83.82z"
+          fill="#182c42"
+        />
+      </svg>
+      <h2
+        class="MuiTypography-root makeStyles-marginTopElements-1 MuiTypography-h2"
+      >
+        Unfortunately, we’ll need to know your policy carrier.
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-spacingTop-3"
+      >
+        <div
+          class="makeStyles-root-6"
+        >
+          <div
+            class="makeStyles-content-7 makeStyles-information-11 makeStyles-roundCorners-9 makeStyles-fullWidth-8"
+          >
+            <div
+              class="makeStyles-icon-10"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-16"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.28 20.77a13.16 13.16 0 01-5.77-2.64c-.64-.48-1.28-1-1.84-1.52l-.08-.08a17.09 17.09 0 01-1.52-1.77 12.52 12.52 0 01-2.88-5.6 4.69 4.69 0 01.32-3.45 6 6 0 013-2.32 1.61 1.61 0 01.88-.24 1.71 1.71 0 011.44.72A21 21 0 0110.56 6a2.07 2.07 0 01.08 2.33 3.26 3.26 0 01-.48.88 1.18 1.18 0 00.08 1.52c.48.56 1 1 1.52 1.6s1 .88 1.52 1.28a1.69 1.69 0 00.8.32 1.54 1.54 0 00.8-.24c.32-.24.56-.48.8-.64a2 2 0 012.32 0c.72.48 1.45 1 2.25 1.68a2 2 0 01.56 2.41A6 6 0 0119.13 20a4 4 0 01-2.65.88c-.4-.03-.8-.11-1.2-.11zM7 4.43C4.55 5.55 3.83 6.67 4.31 8.92A12.54 12.54 0 007 14a15.93 15.93 0 001.52 1.68c.56.48 1.12 1 1.77 1.45a11.49 11.49 0 005.2 2.4 3.89 3.89 0 001 .08c1.6 0 2.57-.8 3.37-2.88a.88.88 0 00-.24-1l-.08-.08L17.36 14a1 1 0 00-1 0 6.92 6.92 0 01-.8.56 2.6 2.6 0 01-3.12-.08l-1.64-1.4-.08-.08c-.48-.56-1.05-1-1.53-1.6a2.28 2.28 0 010-2.88 4.86 4.86 0 01.56-.8.85.85 0 00-.08-1 19.06 19.06 0 00-1.76-2.13.62.62 0 00-.56-.24 3.46 3.46 0 00-.35.08z"
+                  fill="#182c42"
+                  stroke="#182c42"
+                  stroke-miterlimit="10"
+                  stroke-width=".2"
+                />
+              </svg>
+            </div>
+            <div>
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Call us to learn more about our offering so you can discuss it with your carrier.
+              </h3>
+              <div
+                class="makeStyles-displayFlex-4"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2"
+                >
+                  Call
+                </p>
+                <a
+                  class="MuiTypography-root MuiLink-root makeStyles-root-17 MuiLink-underlineNone makeStyles-oneSpace-5 MuiTypography-colorPrimary"
+                  href="tel:877-367-1959"
+                >
+                  <p
+                    class="MuiTypography-root makeStyles-link2-31 MuiTypography-body1"
+                  >
+                    877-367-1959
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

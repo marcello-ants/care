@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pay Range page matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-header-2 MuiTypography-h2"
+        >
+          What is your preferred pay range?
+        </h2>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root makeStyles-careTypeContainer-3 MuiTypography-body2"
+        >
+          The average range in your area is $15 - $50.
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root makeStyles-bigLabeler-21 MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <span
+              class="makeStyles-bigLabel-22 bigLabel"
+            >
+              $17 - 26
+            </span>
+            <span
+              class="makeStyles-bigUnit-23 bigUnit"
+            >
+               / hr
+            </span>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <span
+              class="MuiSlider-root MuiSlider-colorPrimary makeStyles-slider-20"
+            >
+              <span
+                class="MuiSlider-rail"
+              />
+              <span
+                class="MuiSlider-track"
+                style="left: 5.714285714285714%; width: 25.71428571428571%;"
+              />
+              <input
+                type="hidden"
+                value="17,26"
+              />
+              <span
+                aria-orientation="horizontal"
+                aria-valuemax="50"
+                aria-valuemin="15"
+                aria-valuenow="17"
+                class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                data-index="0"
+                role="slider"
+                style="left: 5.714285714285714%;"
+                tabindex="0"
+              />
+              <span
+                aria-orientation="horizontal"
+                aria-valuemax="50"
+                aria-valuemin="15"
+                aria-valuenow="26"
+                class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                data-index="1"
+                role="slider"
+                style="left: 31.428571428571427%;"
+                tabindex="0"
+              />
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-nextButtonContainer-1"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </section>
+</DocumentFragment>
+`;

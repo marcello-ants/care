@@ -1,0 +1,8 @@
+{
+    "@care/cdk-runner:useMultiRegionRole": true,
+    "@care/cdk-runner:tags": {
+        "care:contact": "slack:support-enrollment-mfe",
+        "care:git": "/core-enrollment-mfe",
+        "core:business-unit": "Shared"
+    }
+}

@@ -1,0 +1,438 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/care-who matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-7 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-8 MuiTypography-h2"
+      >
+        Who needs care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-childInfoContainer-9"
+        >
+          <p
+            class="MuiTypography-root makeStyles-body3-17 makeStyles-childLabel-10 MuiTypography-body1 MuiTypography-colorPrimary"
+          >
+            Child 1
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            class="MuiFormControl-root MuiTextField-root makeStyles-root-28 makeStyles-is-filled-31"
+            data-testid="keyboardDatePicker"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+              data-shrink="true"
+              for="childrenDOB[0]"
+              id="childrenDOB[0]-label"
+            >
+              Birth Month and Year (MM/YYYY)
+            </label>
+            <div
+              class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+                id="childrenDOB[0]"
+                name="children[0]"
+                placeholder="MM/YYYY"
+                type="text"
+                value="04/2021"
+              />
+              <div
+                class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  />
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-addChildContainer-11 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-addChildButton-12 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-39 makeStyles-addIcon-13"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              fill="#3b71aa"
+              r="11.5"
+            />
+            <path
+              d="M12 17a.57.57 0 01-.57-.57V7.57a.57.57 0 011.14 0v8.86A.57.57 0 0112 17z"
+              fill="#fff"
+              stroke="#fff"
+              stroke-miterlimit="10"
+              stroke-width=".4"
+            />
+            <path
+              d="M16.43 12.57H7.57a.57.57 0 010-1.14h8.86a.57.57 0 010 1.14z"
+              fill="#fff"
+              stroke="#fff"
+              stroke-miterlimit="10"
+              stroke-width=".4"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            Add another child
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-expecting-3 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-35 MuiCheckbox-root MuiCheckbox-colorSecondary PrivateSwitchBase-checked-36 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-38"
+              data-indeterminate="false"
+              name="expecting"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          I'm expecting
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`/care-who matches snapshot when age qualifies for distance learning 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-46 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-41 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-47 MuiTypography-h2"
+      >
+        Who needs care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-childInfoContainer-48"
+        >
+          <p
+            class="MuiTypography-root makeStyles-body3-56 makeStyles-childLabel-49 MuiTypography-body1 MuiTypography-colorPrimary"
+          >
+            Child 1
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            class="MuiFormControl-root MuiTextField-root makeStyles-root-67 makeStyles-is-filled-70"
+            data-testid="keyboardDatePicker"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+              data-shrink="true"
+              for="childrenDOB[0]"
+              id="childrenDOB[0]-label"
+            >
+              Birth Month and Year (MM/YYYY)
+            </label>
+            <div
+              class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+                id="childrenDOB[0]"
+                name="children[0]"
+                placeholder="MM/YYYY"
+                type="text"
+                value="04/2016"
+              />
+              <div
+                class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  />
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-addChildContainer-50 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiGrid-root makeStyles-addChildButton-51 MuiGrid-item MuiGrid-grid-xs-6"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-81 makeStyles-addIcon-52"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              fill="#3b71aa"
+              r="11.5"
+            />
+            <path
+              d="M12 17a.57.57 0 01-.57-.57V7.57a.57.57 0 011.14 0v8.86A.57.57 0 0112 17z"
+              fill="#fff"
+              stroke="#fff"
+              stroke-miterlimit="10"
+              stroke-width=".4"
+            />
+            <path
+              d="M16.43 12.57H7.57a.57.57 0 010-1.14h8.86a.57.57 0 010 1.14z"
+              fill="#fff"
+              stroke="#fff"
+              stroke-miterlimit="10"
+              stroke-width=".4"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            Add another child
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-expecting-42 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-74 MuiCheckbox-root MuiCheckbox-colorSecondary PrivateSwitchBase-checked-75 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-77"
+              data-indeterminate="false"
+              name="expecting"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          I'm expecting
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-distanceLearning-43 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-distanceLearningTitle-44 MuiTypography-body1"
+      >
+        Will they need help with distance learning?
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-body3-56 MuiTypography-body1"
+      >
+        Ensure kids attend their school's online classes and keep up with assignments.
+      </p>
+      <div
+        class="MuiGrid-root makeStyles-distanceLearningSelector-45 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <ul
+          class="MuiList-root makeStyles-rootInline-78 MuiList-padding"
+        >
+          <li
+            class="MuiListItem-root makeStyles-root-79 MuiListItem-gutters"
+          >
+            <input
+              id="selector.undefined.0"
+              name=""
+              readonly=""
+              type="radio"
+              value="yes"
+            />
+            <span
+              class="control-indicator"
+            >
+              <span
+                class="makeStyles-indicator-80"
+              >
+                Y
+              </span>
+            </span>
+            <span
+              class="control-label"
+            >
+              Yes
+            </span>
+          </li>
+          <li
+            class="MuiListItem-root makeStyles-root-79 MuiListItem-gutters"
+          >
+            <input
+              checked=""
+              id="selector.undefined.1"
+              name=""
+              readonly=""
+              type="radio"
+              value="no"
+            />
+            <span
+              class="control-indicator"
+            >
+              <span
+                class="makeStyles-indicator-80"
+              >
+                N
+              </span>
+            </span>
+            <span
+              class="control-label"
+            >
+              No
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-40 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

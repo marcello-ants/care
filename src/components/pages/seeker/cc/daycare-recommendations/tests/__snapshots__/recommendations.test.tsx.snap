@@ -1,0 +1,261 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Seeker - Day Care - Recommendations matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-5"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-6"
+      >
+        <div
+          class="makeStyles-root-7"
+        >
+          <div
+            class="makeStyles-content-8 makeStyles-confirmation-15 makeStyles-roundCorners-10"
+            style="width: 100%;"
+          >
+            <div
+              class="makeStyles-icon-11"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-97"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M2 12a10 10 0 1110 10A10 10 0 012 12zm1.32 0A8.68 8.68 0 1012 3.32 8.7 8.7 0 003.32 12z"
+                  fill="#00a979"
+                />
+                <path
+                  d="M10.35 15.3a.68.68 0 01-.36-.18l-2.43-2.64a.54.54 0 01.09-.62.45.45 0 01.63 0l2.07 2.29 4.78-5a.45.45 0 01.63 0 .41.41 0 010 .62l-5 5.37a.49.49 0 01-.41.16z"
+                  fill="#00a979"
+                />
+                <path
+                  d="M10.35 15.55a.91.91 0 01-.53-.25l-2.48-2.71a.77.77 0 01.13-.9.7.7 0 011 0l1.9 2.11L15 9a.7.7 0 011 0 .68.68 0 01.21.49.67.67 0 01-.21.49l-5 5.37a.77.77 0 01-.65.2zm-2.58-3.21L10.18 15a.54.54 0 00.18.1c.07 0 .1 0 .18-.1l5-5.37a.19.19 0 00.07-.14.18.18 0 00-.06-.13.19.19 0 00-.28 0l-5 5.21L8.1 12a.2.2 0 00-.28 0 .28.28 0 00-.05.34z"
+                  fill="#00a979"
+                />
+              </svg>
+            </div>
+            <div>
+              <p
+                class="MuiTypography-root MuiTypography-body2"
+              >
+                Account created!
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-46"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-60"
+        >
+          <h2
+            class="MuiTypography-root makeStyles-title-3 MuiTypography-h2"
+          >
+            Get started evaluating these daycares!
+          </h2>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row-reverse"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-7"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-61"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-5"
+        >
+          <div
+            class="makeStyles-cardContainer-1"
+          >
+            <div
+              class="MuiGrid-root makeStyles-daycare-62 MuiGrid-container"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-74"
+                    >
+                      <div
+                        class="makeStyles-daycareInfo-66"
+                      >
+                        <div
+                          aria-label="License Verified"
+                          class="makeStyles-root-80 makeStyles-badge-78"
+                          role="tooltip"
+                          style="background-color: rgb(255, 243, 194);"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root makeStyles-root-98"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M10.27 16.83a1 1 0 01-.7-.3l-4.3-4.3a1 1 0 011.41-1.41l3.59 3.59 6.8-6.79A1 1 0 0118.48 9L11 16.53a1 1 0 01-.73.3z"
+                              fill="#172c42"
+                            />
+                          </svg>
+                          <p
+                            class="MuiTypography-root makeStyles-badge-26 MuiTypography-body1"
+                          >
+                            License Verified
+                          </p>
+                        </div>
+                        <div
+                          aria-label="3.0"
+                          class="makeStyles-root-80 makeStyles-badge-78"
+                          role="tooltip"
+                          style="background-color: rgb(255, 243, 194);"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root makeStyles-root-99 makeStyles-ratingIcon-77"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                            />
+                          </svg>
+                          <p
+                            class="MuiTypography-root makeStyles-badge-26 MuiTypography-body1"
+                          >
+                            3.0
+                          </p>
+                        </div>
+                        <div
+                          aria-label="Daycare center"
+                          class="makeStyles-root-80 makeStyles-badge-78"
+                          role="tooltip"
+                          style="background-color: rgb(231, 240, 251);"
+                        >
+                          <p
+                            class="MuiTypography-root makeStyles-badge-26 MuiTypography-body1"
+                          >
+                            Daycare center
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="makeStyles-daycareAddressContainer-67"
+                      >
+                        <div
+                          class="makeStyles-daycareName-72"
+                        >
+                          <h4
+                            class="MuiTypography-root MuiTypography-h4"
+                          >
+                            1. CARE AFTER SCHOOL - COLONIAL HILLS ELEMENTARY
+                          </h4>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      alt="Daycare profile"
+                      class="makeStyles-iconImage-84 makeStyles-iconImageMobile-85"
+                      src="/app/enrollment/recommendationCard/icons/DTMW_DC_generic01.png"
+                    />
+                  </div>
+                  <div
+                    class="MuiGrid-root makeStyles-daycareCheckBox-73 MuiGrid-item MuiGrid-grid-xs-2"
+                  >
+                    <label
+                      class="MuiFormControlLabel-root makeStyles-root-86"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-87 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-90"
+                            data-indeterminate="false"
+                            name="70bed9b5-e5b8-4fd3-a205-44c69758fb7e-selected"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root makeStyles-root-100"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                              fill="#fff"
+                            />
+                            <path
+                              d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                              fill="#23405f"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      />
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-5"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-92"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-nextButton-2 MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Request info
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

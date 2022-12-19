@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecommendationCard /> matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-daycare-1 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-13"
+          >
+            <div
+              class="makeStyles-daycareInfo-5"
+            >
+              <div
+                aria-label="License Verified"
+                class="makeStyles-root-19 makeStyles-badge-17"
+                role="tooltip"
+                style="background-color: rgb(255, 243, 194);"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-21"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M10.27 16.83a1 1 0 01-.7-.3l-4.3-4.3a1 1 0 011.41-1.41l3.59 3.59 6.8-6.79A1 1 0 0118.48 9L11 16.53a1 1 0 01-.73.3z"
+                    fill="#172c42"
+                  />
+                </svg>
+                <p
+                  class="MuiTypography-root makeStyles-badge-30 MuiTypography-body1"
+                >
+                  License Verified
+                </p>
+              </div>
+              <div
+                aria-label="3.0"
+                class="makeStyles-root-19 makeStyles-badge-17"
+                role="tooltip"
+                style="background-color: rgb(255, 243, 194);"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-36 makeStyles-ratingIcon-16"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                  />
+                </svg>
+                <p
+                  class="MuiTypography-root makeStyles-badge-30 MuiTypography-body1"
+                >
+                  3.0
+                </p>
+              </div>
+              <div
+                aria-label="In-home daycare"
+                class="makeStyles-root-19 makeStyles-badge-17"
+                role="tooltip"
+                style="background-color: rgb(245, 232, 253);"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-badge-30 MuiTypography-body1"
+                >
+                  In-home daycare
+                </p>
+              </div>
+            </div>
+            <div
+              class="makeStyles-daycareAddressContainer-6"
+            >
+              <div
+                class="makeStyles-daycareName-11"
+              >
+                <h4
+                  class="MuiTypography-root MuiTypography-h4"
+                >
+                  1. CARE AFTER SCHOOL - COLONIAL HILLS ELEMENTARY
+                </h4>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-37"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-body3-25 makeStyles-address-10 MuiTypography-body1"
+                >
+                  5800 GREENWICH ST, WORTHINGTON, Ohio 43085
+                </p>
+              </div>
+            </div>
+          </div>
+          <div>
+            Card Image
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-daycareCheckBox-12 MuiGrid-item MuiGrid-grid-xs-2"
+        >
+          <label
+            class="MuiFormControlLabel-root makeStyles-root-38"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-39 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-42"
+                  data-indeterminate="false"
+                  name="1-selected"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-43"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+            />
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

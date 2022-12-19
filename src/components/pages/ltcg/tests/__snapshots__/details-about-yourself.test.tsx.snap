@@ -1,0 +1,250 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsAboutYourself matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-root-6"
+      >
+        <div
+          class="makeStyles-content-7 makeStyles-confirmation-14 makeStyles-roundCorners-9 makeStyles-fullWidth-8"
+        >
+          <div
+            class="makeStyles-icon-10"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-47"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M2 12a10 10 0 1110 10A10 10 0 012 12zm1.32 0A8.68 8.68 0 1012 3.32 8.7 8.7 0 003.32 12z"
+                fill="#00a979"
+              />
+              <path
+                d="M10.35 15.3a.68.68 0 01-.36-.18l-2.43-2.64a.54.54 0 01.09-.62.45.45 0 01.63 0l2.07 2.29 4.78-5a.45.45 0 01.63 0 .41.41 0 010 .62l-5 5.37a.49.49 0 01-.41.16z"
+                fill="#00a979"
+              />
+              <path
+                d="M10.35 15.55a.91.91 0 01-.53-.25l-2.48-2.71a.77.77 0 01.13-.9.7.7 0 011 0l1.9 2.11L15 9a.7.7 0 011 0 .68.68 0 01.21.49.67.67 0 01-.21.49l-5 5.37a.77.77 0 01-.65.2zm-2.58-3.21L10.18 15a.54.54 0 00.18.1c.07 0 .1 0 .18-.1l5-5.37a.19.19 0 00.07-.14.18.18 0 00-.06-.13.19.19 0 00-.28 0l-5 5.21L8.1 12a.2.2 0 00-.28 0 .28.28 0 00-.05.34z"
+                fill="#00a979"
+              />
+            </svg>
+          </div>
+          <div>
+            <p
+              class="MuiTypography-root makeStyles-body3-20 MuiTypography-body1"
+            >
+              You can keep your existing caregiver while taking advantage of our partnership with your insurance carrier.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-titleContainer-2 makeStyles-titleContainer-5 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2"
+      >
+        Share a few details about yourself.
+      </h2>
+      <p
+        class="MuiTypography-root makeStyles-descriptionTopSpacing-1 MuiTypography-body2"
+      >
+        We use this information to verify your identify and keep our platform safe. It will not be shared with anyone.
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-inputContainer-3"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="firstName"
+            id="firstName-label"
+          >
+            First name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="firstName"
+              name="firstName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-inputContainer-3"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="lastName"
+            id="lastName-label"
+          >
+            Last name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="lastName"
+              name="lastName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-inputContainer-3"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="address"
+            id="address-label"
+          >
+            Street address
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="address"
+              name="address"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-zipContainer-4"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            class="MuiFormControl-root MuiTextField-root makeStyles-inlineTextFieldOverride-35 makeStyles-inlineTextFieldOverride-37 makeStyles-inline-31"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+              data-shrink="false"
+              for="zipCode"
+              id="zipCode-label"
+            >
+              ZIP code
+            </label>
+            <div
+              class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+                id="zipCode"
+                name="zipCode"
+                type="number"
+                value=""
+              />
+              <div
+                class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-48"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M11.24 20.25a.81.81 0 00.75.45.91.91 0 00.77-.4l3.83-6.62.14-.25c.17-.31.45-.81.74-1.45a7 7 0 00.74-2.61 6.22 6.22 0 10-12.44 0A6.77 6.77 0 006.52 12a13.35 13.35 0 00.86 1.6l3.83 6.64zM16 13.39l-3.68 6.39-.43.76-.43-.77-3.65-6.46a14.78 14.78 0 01-.89-1.71 6.2 6.2 0 01-.62-2.22 5.69 5.69 0 015.7-5.7 5.57 5.57 0 015.62 5.7 6.23 6.23 0 01-.62 2.26 17.53 17.53 0 01-1 1.75z"
+                    fill="#213f5f"
+                    fill-rule="evenodd"
+                  />
+                  <path
+                    d="M11.25 20.26l-.25.14zm0 0l.27-.13zm1.53.06l.26.16zm3.83-6.62l.26.15zm.14-.25l-.26-.15zm0 0l-.26-.16zm0 0l.26.15zm0 0l-.27-.15zm.73-1.45l-.27-.13zm-11 0l.27-.12zm.86 1.6l.25-.16zm0 0l.26-.15zm0 0l-.26.15zm3.83 6.64l.26-.15zm1.12-.46l-.26-.15zM16 13.39l-.26-.16zm-4.11 7.15l-.26.14.26.46.26-.46zm-.43-.77l.26-.14zm-3.65-6.46l.26-.15zm-.89-1.71l-.28.12zm10.7-2.22zM17 11.64l-.27-.12zm-5.44 8.49l-.54.26zm.48.28a.51.51 0 01-.48-.28l-.56.27a1.12 1.12 0 001 .6zm.51-.25a.61.61 0 01-.51.25V21a1.22 1.22 0 001-.54zm3.83-6.62l-3.83 6.62.52.3 3.83-6.62zm.14-.25c-.06.11-.12.2-.15.27l.53.27.14-.25zm0 0l.52.29zm0 0l.52.31zm0 0l.54.27zm.74-1.44c-.29.63-.56 1.12-.73 1.43l.52.29c.17-.31.46-.82.75-1.47zm.71-2.48a6.78 6.78 0 01-.71 2.48l.54.25a7.28 7.28 0 00.77-2.73zM12 3.46a6 6 0 015.92 5.92h.6A6.56 6.56 0 0012 2.86zM6.08 9.38A6 6 0 0112 3.46v-.6a6.56 6.56 0 00-6.52 6.52zm.71 2.47a6.68 6.68 0 01-.71-2.47h-.6a7.18 7.18 0 00.77 2.72zm.84 1.56a13.41 13.41 0 01-.84-1.56l-.54.25a14.21 14.21 0 00.88 1.64zm0 0l-.5.33zm0 0l-.52.3zm3.83 6.64l-3.8-6.6-.52.3L11 20.39zm0 0l-.52.3zm1.11-.17l3.68-6.39-.52-.3-3.68 6.39zm-.43.75l.43-.75-.52-.3-.43.76zm-1-.76l.44.76.52-.29-.43-.76zm-3.59-6.41l3.67 6.46.53-.29-3.68-6.47zm-.91-1.74a16.06 16.06 0 00.92 1.75l.51-.32a13.37 13.37 0 01-.88-1.68zM6 9.38a6.45 6.45 0 00.64 2.34l.55-.25a5.83 5.83 0 01-.59-2.09zm6-6a6 6 0 00-6 6h.6A5.39 5.39 0 0112 4zm5.92 6a5.87 5.87 0 00-5.92-6V4a5.26 5.26 0 015.32 5.39zm-.69 2.38a6.59 6.59 0 00.69-2.39h-.6a6 6 0 01-.63 2.14zm-.95 1.78a16.09 16.09 0 00.95-1.78l-.54-.25a15.52 15.52 0 01-.92 1.71zM11.92 11.9a2.29 2.29 0 10-2.29-2.29 2.28 2.28 0 002.29 2.29z"
+                    fill="#213f5f"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-inputContainer-3"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-31"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="dateOfBirth"
+            id="dateOfBirth-label"
+          >
+            Your birth date (MM/DD/YYYY)
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="dateOfBirth"
+              name="dateOfBirth"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="makeStyles-buttonContainer-39 makeStyles-buttonContainer-40"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Next
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DidYouKnow should render snapshot with provided text 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-info-1 MuiGrid-item MuiGrid-grid-xs-1"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root makeStyles-root-2"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <defs>
+        <clippath
+          id="icon-24-info-tips-svg-a"
+        >
+          <path
+            d="M4.8 2h14.4v20.01H4.8z"
+            fill="none"
+          />
+        </clippath>
+      </defs>
+      <g
+        clip-path="url(#icon-24-info-tips-svg-a)"
+        fill="#182c42"
+      >
+        <path
+          d="M15.1 22H8.8a.7.7 0 01-.49-.2.71.71 0 01.49-1.2h6.3a.71.71 0 01.5.21.7.7 0 01-.5 1.19zm.1-3.3H8.8a.59.59 0 01-.38-.14.65.65 0 01-.22-.36l-1-3.6v-.1a7.39 7.39 0 01-1.71-2.28 7.19 7.19 0 01-.68-2.77 7 7 0 01.42-2.76A7.18 7.18 0 016.7 4.3a7.47 7.47 0 012.42-1.7 7.19 7.19 0 019.55 3.84 7.1 7.1 0 01.53 2.76 8.69 8.69 0 01-2.2 5.3l-1.2 3.7a.63.63 0 01-.21.36.62.62 0 01-.39.14zm-4-1.3h3.4v-.2l1-3.2c0-.1.1-.2.2-.3a7.14 7.14 0 002-4.6 5.84 5.84 0 00-1.71-4.19A5.91 5.91 0 0011.9 3.2a5.74 5.74 0 00-2.27.44 5.85 5.85 0 00-1.92 1.27 6 6 0 00-1.28 1.93A5.82 5.82 0 006 9.1a6 6 0 002.1 4.5.65.65 0 01.15.18.59.59 0 01.05.22l.9 3.2v.2z"
+        />
+        <path
+          d="M11.85 11.5a2.25 2.25 0 112.25-2.25 2.25 2.25 0 01-2.25 2.25zm0-3.3a1.05 1.05 0 101.05 1.05 1 1 0 00-1.05-1.05z"
+        />
+      </g>
+      <path
+        d="M11.8 10.7a.6.6 0 01.6.6v6.5a.6.6 0 01-.6.6.6.6 0 01-.6-.6v-6.5a.6.6 0 01.6-.6z"
+        fill="#182c42"
+      />
+      <path
+        d="M11.8 18.5a.71.71 0 01-.7-.7v-6.5a.7.7 0 011.4 0v6.5a.7.7 0 01-.7.7zm0-7.7a.5.5 0 00-.5.5v6.5a.51.51 0 00.5.5.5.5 0 00.5-.5v-6.5a.5.5 0 00-.5-.5z"
+        fill="#182c42"
+      />
+    </svg>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-info-1 MuiGrid-item MuiGrid-grid-xs-11"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body2"
+    >
+      100% of caregivers are required to complete our background check
+    </p>
+  </div>
+</DocumentFragment>
+`;

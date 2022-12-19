@@ -1,0 +1,240 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job Type page matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root makeStyles-header-1 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-header-8 MuiTypography-h2"
+        >
+          My schedule works best with:
+        </h2>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <ul
+          class="MuiList-root makeStyles-pillList-2 MuiList-padding"
+        >
+          <li
+            class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+          >
+            <input
+              class="makeStyles-input-13"
+              id="selector.careType.0"
+              name="careType"
+              readonly=""
+              type="checkbox"
+              value="recurring"
+            />
+            <div
+              class="makeStyles-controlIndicator-14 md"
+              tabindex="0"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+              >
+                <div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Recurring jobs
+                  </p>
+                </div>
+              </div>
+              <div
+                class="makeStyles-checkboxContainer-16"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-35 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-38"
+                      data-indeterminate="false"
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-root-42"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                        fill="#fff"
+                      />
+                      <path
+                        d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                        fill="#23405f"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </span>
+              </div>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+          >
+            <input
+              class="makeStyles-input-13"
+              id="selector.careType.1"
+              name="careType"
+              readonly=""
+              type="checkbox"
+              value="onetime"
+            />
+            <div
+              class="makeStyles-controlIndicator-14 md"
+              tabindex="0"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+              >
+                <div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    One-time jobs
+                  </p>
+                </div>
+              </div>
+              <div
+                class="makeStyles-checkboxContainer-16"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-35 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-38"
+                      data-indeterminate="false"
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-root-43"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                        fill="#fff"
+                      />
+                      <path
+                        d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                        fill="#23405f"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </span>
+              </div>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+          >
+            <input
+              class="makeStyles-input-13"
+              id="selector.careType.2"
+              name="careType"
+              readonly=""
+              type="checkbox"
+              value="livein"
+            />
+            <div
+              class="makeStyles-controlIndicator-14 md"
+              tabindex="0"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+              >
+                <div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    Live-in jobs
+                  </p>
+                </div>
+              </div>
+              <div
+                class="makeStyles-checkboxContainer-16"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-35 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-38"
+                      data-indeterminate="false"
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-root-44"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                        fill="#fff"
+                      />
+                      <path
+                        d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                        fill="#23405f"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </span>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="makeStyles-nextButtonContainer-7"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+      </button>
+    </div>
+  </section>
+</DocumentFragment>
+`;

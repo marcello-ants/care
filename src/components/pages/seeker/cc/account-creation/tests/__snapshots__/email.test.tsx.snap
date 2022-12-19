@@ -1,0 +1,347 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Child Care - Name Before Email with LD flag matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-2964"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-2965"
+        >
+          <h2
+            class="MuiTypography-root makeStyles-header-2966 MuiTypography-h2"
+          >
+            Create a free account
+          </h2>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          See caregivers who match your needs. It only takes a few seconds.
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-2958 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-2981"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email Address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-2985"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-terms-2986 MuiTypography-subtitle2 MuiTypography-colorTextSecondary"
+        >
+          <span>
+            By clicking "Join now", you agree to our
+          </span>
+           
+          <a
+            href="https://www.care.com/terms-of-use-popup-p1030.html"
+          >
+            Terms of Use
+          </a>
+          <span>
+             and
+          </span>
+           
+          <a
+            href="https://www.care.com/privacy-policy-popup-p1031.html"
+          >
+            Privacy Policy
+          </a>
+          <span>
+            .
+          </span>
+        </h6>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Join now
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Child Care - Split Account Creation matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-7"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-8"
+        >
+          <h2
+            class="MuiTypography-root makeStyles-header-9 MuiTypography-h2"
+          >
+            Create a free account
+          </h2>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          See caregivers who match your needs. It only takes a few seconds.
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-24"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email Address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Child Care - Split Account Creation with LD flag matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-865"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-866"
+        >
+          <h2
+            class="MuiTypography-root makeStyles-header-867 MuiTypography-h2"
+          >
+            Create a free account
+          </h2>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          See caregivers who match your needs. It only takes a few seconds.
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-859 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-882"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email Address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-container-886"
+      >
+        <div
+          class="makeStyles-line-887"
+        />
+        <span
+          class="makeStyles-content-888"
+        >
+          OR
+        </span>
+        <div
+          class="makeStyles-line-887"
+        />
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-889"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-fbButton-860 MuiButton-outlinedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <div
+                class="makeStyles-fbButtonContent-861"
+              >
+                <div
+                  class="makeStyles-fbIconContainer-862"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root makeStyles-root-891 makeStyles-fbIcon-863"
+                    focusable="false"
+                    viewBox="0 0 48 48"
+                  >
+                    <g
+                      data-name="Facebook"
+                    >
+                      <path
+                        d="M32 12.23V6.12h-5.34c-7.57 0-7.4 5.87-7.4 6.75v4.8h-3.51v5.86h3.51V41h7.22V23.53h4.85s.45-2.81.67-5.89h-5.49v-4a1.71 1.71 0 011.57-1.41z"
+                        data-name="path-1"
+                        fill="#213f5f"
+                        fill-rule="evenodd"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <p
+                  class="makeStyles-fbButtonText-864"
+                >
+                  Continue with Facebook
+                </p>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Where should the sitter go page Should match a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-2 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-3 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-6 MuiTypography-h2"
+      >
+        Where should the sitter go?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextPrimary"
+      >
+        Your address will only be shared with a caregiver that you book
+      </p>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-21 makeStyles-addressInputContainer-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-29"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-30 makeStyles-addressSearchContainer-22"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-36 makeStyles-loopIcon-23"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M10 17.29a7 7 0 117-7 7 7 0 01-7 7zm0-12.63a5.53 5.53 0 105.52 5.52A5.51 5.51 0 0010 4.66z"
+              fill="#23405f"
+            />
+            <path
+              d="M20.24 20.77a.83.83 0 01-.53-.22l-5.59-5.37a.75.75 0 111.06-1.06l5.59 5.37a.72.72 0 010 1.06.58.58 0 01-.53.22z"
+              fill="#23405f"
+            />
+          </svg>
+          <div
+            class="MuiFormControl-root MuiTextField-root makeStyles-inline-32"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+              data-shrink="false"
+              for="search-address"
+              id="search-address-label"
+            >
+              Street address
+            </label>
+            <div
+              class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiInput-input"
+                id="search-address"
+                name="search address"
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-5 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

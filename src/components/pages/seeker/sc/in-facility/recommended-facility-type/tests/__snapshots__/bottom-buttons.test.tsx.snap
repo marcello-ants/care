@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecommendedFacilityType - Bottom Buttons Match Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-buttonContainer-3 makeStyles-buttonContainer-4"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Yes, continue
+      </span>
+    </button>
+  </div>
+  <div
+    class="makeStyles-linkContainer-2"
+  >
+    <button
+      class="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-linkStyles-1 MuiLink-button MuiTypography-subtitle1 MuiTypography-colorPrimary"
+    >
+      This doesn't look right
+    </button>
+  </div>
+</DocumentFragment>
+`;

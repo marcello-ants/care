@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressDots should render snapshot 1`] = `
+<DocumentFragment>
+  <ul
+    class="makeStyles-root-1"
+  >
+    <li
+      class="makeStyles-dot-2 makeStyles-activeDot-3"
+    />
+    <li
+      class="makeStyles-dot-2"
+    />
+    <li
+      class="makeStyles-dot-2"
+    />
+    <li
+      class="makeStyles-dot-2"
+    />
+    <li
+      class="makeStyles-dot-2"
+    />
+  </ul>
+</DocumentFragment>
+`;

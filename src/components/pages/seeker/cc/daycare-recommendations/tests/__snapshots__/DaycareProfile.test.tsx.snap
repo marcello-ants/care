@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DaycareProfile /> desktop matches snapshot 1`] = `<DocumentFragment />`;
+
+exports[`<DaycareProfile /> mobile matches snapshot 1`] = `<DocumentFragment />`;

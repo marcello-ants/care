@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactInfo matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2
+      class="MuiTypography-root makeStyles-header-4 MuiTypography-h2"
+    >
+      Share your contact info so we can help you through the process and set up your account.
+    </h2>
+    <p
+      class="MuiTypography-root makeStyles-subheader-1 MuiTypography-body2"
+    >
+      Our experts will be in touch quickly to help identify your needs.
+    </p>
+    <div
+      class="makeStyles-inputContainer-2"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-5"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-inputContainer-2"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-5"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="phoneNumber"
+          id="phoneNumber-label"
+        >
+          Phone number
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="phoneNumber"
+            name="phoneNumber"
+            type="tel"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-inputContainer-2"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-5"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="password"
+          id="password-label"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-describedby="password-helper-text"
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="password"
+            name="password"
+            type="password"
+            value=""
+          />
+        </div>
+        <p
+          class="MuiFormHelperText-root"
+          id="password-helper-text"
+        >
+          At least 6 characters
+        </p>
+      </div>
+    </div>
+    <div
+      class="makeStyles-terms-3"
+    >
+      <div
+        class="makeStyles-terms-9 makeStyles-terms-11"
+      >
+        <p
+          class="MuiTypography-root makeStyles-info1-16 MuiTypography-body1"
+        >
+          <span>
+            By clicking "
+          </span>
+          Submit
+          <span>
+            ", you agree to our 
+          </span>
+          <a
+            href="https://www.care.com/terms-of-use-popup-p1030.html"
+            rel="noreferrer"
+            tabindex="-1"
+            target="_blank"
+          >
+            Terms of Use
+          </a>
+           
+          <span>
+            and
+          </span>
+           
+          <a
+            href="https://www.care.com/privacy-policy-popup-p1031.html"
+            rel="noreferrer"
+            tabindex="-1"
+            target="_blank"
+          >
+            Privacy Policy
+          </a>
+          <span>
+            .
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      class="makeStyles-buttonContainer-26 makeStyles-buttonContainer-27"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Submit
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

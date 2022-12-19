@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`in facility describe-loved-one matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-header-6 makeStyles-header-7 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-8 MuiTypography-h2"
+      >
+        How would you describe your loved one?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-typeContainer-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <ul
+        class="MuiList-root makeStyles-selector-1 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-13"
+            id="selector.undefined.0"
+            name=""
+            readonly=""
+            type="radio"
+            value="INDEPENDENT"
+          />
+          <div
+            class="makeStyles-controlIndicator-14 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Independent
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-13"
+            id="selector.undefined.1"
+            name=""
+            readonly=""
+            type="radio"
+            value="MONITORING_OR_EXTRA_HELP_NEEDED"
+          />
+          <div
+            class="makeStyles-controlIndicator-14 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Needs monitoring or extra help
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-13"
+            id="selector.undefined.2"
+            name=""
+            readonly=""
+            type="radio"
+            value="CONSTANT_SUPERVISION_NEEDED"
+          />
+          <div
+            class="makeStyles-controlIndicator-14 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Requires constant supervision
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-10 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-13"
+            id="selector.undefined.3"
+            name=""
+            readonly=""
+            type="radio"
+            value="NOT_SURE"
+          />
+          <div
+            class="makeStyles-controlIndicator-14 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  I’m not sure
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

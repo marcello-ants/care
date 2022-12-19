@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Day Care Account Creation - Split account SeekerEmailPhoneFormDC matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="makeStyles-headerContainer-1"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-3 MuiTypography-h2"
+      >
+        Request tours with daycares that match your needs.
+      </h2>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1"
+    >
+      We will send your information to matching daycares.
+    </p>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-inputContainer-2"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-4"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="email"
+            id="email-label"
+          >
+            Email address
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="email"
+              name="email"
+              type="email"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-inputContainer-2"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-4"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="phoneNumber"
+            id="phoneNumber-label"
+          >
+            Phone number
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="phoneNumber"
+              name="phoneNumber"
+              type="tel"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-8"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Next
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

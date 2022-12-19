@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecommendedFacilityType - ProsAndCons Match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h5
+      class="MuiTypography-root makeStyles-subHeaderSpace-1 MuiTypography-h5"
+    >
+      Why we think it's a good fit:
+    </h5>
+    <ul
+      class="MuiList-root makeStyles-marginListStartItem-3 MuiList-padding"
+    >
+      <li
+        class="MuiListItem-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-18"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 22A10 10 0 102 12a10 10 0 0010 10z"
+            fill="#01a87a"
+          />
+          <path
+            d="M10.35 15.3a.68.68 0 01-.36-.18l-2.43-2.64a.54.54 0 01.09-.62.45.45 0 01.63 0l2.07 2.29 4.78-5a.45.45 0 01.63 0 .41.41 0 010 .62l-5 5.37a.49.49 0 01-.41.16z"
+            fill="#fff"
+            stroke="#fff"
+            stroke-miterlimit="10"
+            stroke-width=".5"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-body3-7 makeStyles-marginLeftTextList-2 MuiTypography-body1"
+        >
+          Good for seniors who need help with daily activities
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-19"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 22A10 10 0 102 12a10 10 0 0010 10z"
+            fill="#01a87a"
+          />
+          <path
+            d="M10.35 15.3a.68.68 0 01-.36-.18l-2.43-2.64a.54.54 0 01.09-.62.45.45 0 01.63 0l2.07 2.29 4.78-5a.45.45 0 01.63 0 .41.41 0 010 .62l-5 5.37a.49.49 0 01-.41.16z"
+            fill="#fff"
+            stroke="#fff"
+            stroke-miterlimit="10"
+            stroke-width=".5"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-body3-7 makeStyles-marginLeftTextList-2 MuiTypography-body1"
+        >
+          Residents typically have access to at least one medical professional
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-20"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 22A10 10 0 102 12a10 10 0 0010 10z"
+            fill="#01a87a"
+          />
+          <path
+            d="M10.35 15.3a.68.68 0 01-.36-.18l-2.43-2.64a.54.54 0 01.09-.62.45.45 0 01.63 0l2.07 2.29 4.78-5a.45.45 0 01.63 0 .41.41 0 010 .62l-5 5.37a.49.49 0 01-.41.16z"
+            fill="#fff"
+            stroke="#fff"
+            stroke-miterlimit="10"
+            stroke-width=".5"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-body3-7 makeStyles-marginLeftTextList-2 MuiTypography-body1"
+        >
+          Offers social and community interaction
+        </p>
+      </li>
+    </ul>
+    <h5
+      class="MuiTypography-root makeStyles-subHeaderSpace-1 MuiTypography-h5"
+    >
+      Why it may not be a good fit:
+    </h5>
+    <ul
+      class="MuiList-root makeStyles-marginListStartItem-3 MuiList-padding"
+    >
+      <li
+        class="MuiListItem-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-root-21"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M4.65 12a.86.86 0 01.9-.9h12.9a.9.9 0 110 1.8H5.55a.86.86 0 01-.9-.9z"
+            fill="#213f5f"
+            fill-rule="evenodd"
+          />
+          <path
+            d="M4.9 11.35l-.11-.11zm14.2 0l-.1.1zm0 1.3l-.1-.1zm-14.2 0l-.11.11zm-.11-1.41a1 1 0 00-.29.76h.3a.77.77 0 01.2-.55zm.76-.24a1 1 0 00-.76.29l.21.21a.77.77 0 01.55-.2zm12.9 0H5.55v.3h12.9zm.76.29a1 1 0 00-.76-.29v.3a.77.77 0 01.55.2zm.29.76a1 1 0 00-.29-.76l-.21.21a.77.77 0 01.2.55zm-.29.76a1 1 0 00.29-.81h-.3a.77.77 0 01-.2.55zm-.76.29a1 1 0 00.76-.29l-.21-.26a.77.77 0 01-.55.2zm-12.9 0h12.9v-.3H5.55zm-.76-.29a1 1 0 00.76.29v-.3a.77.77 0 01-.55-.2zM4.5 12a1 1 0 00.29.76l.21-.21a.77.77 0 01-.2-.55z"
+            fill="#213f5f"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-body3-7 makeStyles-marginLeftTextList-2 MuiTypography-body1"
+        >
+          Not a great fit for those who need around-the-clock medical care or are dealing with severe physical or mental conditions
+        </p>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

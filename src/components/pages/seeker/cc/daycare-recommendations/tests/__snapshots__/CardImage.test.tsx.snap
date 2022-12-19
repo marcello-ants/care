@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardImage /> Card Image renders correctly - Desktop 1`] = `
+<DocumentFragment>
+  <img
+    alt="Daycare profile"
+    class="makeStyles-iconImage-1"
+    src="/app/enrollment/recommendationCard/icons/DTMW_DC_generic02.png"
+  />
+</DocumentFragment>
+`;
+
+exports[`<CardImage /> Card Image renders correctly - Mobile 1`] = `
+<DocumentFragment>
+  <img
+    alt="Daycare profile"
+    class="makeStyles-iconImage-3 makeStyles-iconImageMobile-4"
+    src="/app/enrollment/recommendationCard/icons/DTMW_DC_generic02.png"
+  />
+</DocumentFragment>
+`;

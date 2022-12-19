@@ -1,0 +1,428 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Caregivers Near You page matches snapshot - no results 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-fullHeight-73 MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-header-100 MuiTypography-h2"
+        >
+          Your job needs have been shared!
+        </h2>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root makeStyles-bodyText-64 MuiTypography-body2"
+        >
+          Be on the lookout for applicants in your inbox.
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          class="makeStyles-divider-75"
+        >
+          <div>
+            <div
+              class="makeStyles-divider-115"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <h4
+            class="MuiTypography-root makeStyles-h4Text-72 MuiTypography-h4"
+          >
+            Next, you'll be able to search for caregivers in your area. You can upgrade now to message them directly.
+          </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Caregivers Near You page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-fullHeight-10 MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-header-37 MuiTypography-h2"
+        >
+          Your job needs have been shared!
+        </h2>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <p
+          class="MuiTypography-root makeStyles-bodyText-1 MuiTypography-body2"
+        >
+          Be on the lookout for applicants in your inbox.
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          class="makeStyles-divider-12"
+        >
+          <div>
+            <div
+              class="makeStyles-divider-52"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <h4
+            class="MuiTypography-root makeStyles-h4Text-9 MuiTypography-h4"
+          >
+            Don't wait for caregivers to contact you, upgrade now to reach out to them directly.
+          </h4>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-caregiversAreaTitle-13 MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <p
+            class="MuiTypography-root makeStyles-h4Text-9 MuiTypography-body1"
+          >
+            Top caregivers in your area
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-caregiverCardsContainer-14 MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root makeStyles-careGiverItem-7 MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-wrap-xs-nowrap"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div>
+                    <div
+                      class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-53 makeStyles-colorDefault-54 makeStyles-medium-56"
+                    >
+                      <img
+                        alt="Lisa N."
+                        class="MuiAvatar-img"
+                        src="url1"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div
+                    style="min-width: 100px; width: 0px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"
+                  >
+                    <strong>
+                      Lisa N.
+                    </strong>
+                  </div>
+                  <div
+                    style="width: 100%;"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-body3-41 MuiTypography-body1"
+                    >
+                      1 yrs exp
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root makeStyles-careGiverItem-7 MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-wrap-xs-nowrap"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div>
+                    <div
+                      class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-53 makeStyles-colorDefault-54 makeStyles-medium-56"
+                    >
+                      <img
+                        alt="Margaret D."
+                        class="MuiAvatar-img"
+                        src="url2"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div
+                    style="min-width: 100px; width: 0px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"
+                  >
+                    <strong>
+                      Margaret D.
+                    </strong>
+                  </div>
+                  <div
+                    style="width: 100%;"
+                  >
+                    <span
+                      aria-label="5 Stars"
+                      class="MuiRating-root MuiRating-readOnly"
+                      role="img"
+                    >
+                      <span>
+                        <span
+                          class="MuiRating-icon MuiRating-iconFilled"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span>
+                        <span
+                          class="MuiRating-icon MuiRating-iconFilled"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span>
+                        <span
+                          class="MuiRating-icon MuiRating-iconFilled"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span>
+                        <span
+                          class="MuiRating-icon MuiRating-iconFilled"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span>
+                        <span
+                          class="MuiRating-icon MuiRating-iconFilled"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root makeStyles-careGiverItem-7 MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-wrap-xs-nowrap"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div>
+                    <div
+                      class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-53 makeStyles-colorDefault-54 makeStyles-medium-56"
+                    >
+                      <img
+                        alt="Jerry N."
+                        class="MuiAvatar-img"
+                        src="url1"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div
+                    style="min-width: 100px; width: 0px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"
+                  >
+                    <strong>
+                      Jerry N.
+                    </strong>
+                  </div>
+                  <div
+                    style="width: 100%;"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-body3-41 MuiTypography-body1"
+                    >
+                      1 yrs exp
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root makeStyles-careGiverItem-7 MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-wrap-xs-nowrap"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div>
+                    <div
+                      class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-53 makeStyles-colorDefault-54 makeStyles-medium-56"
+                    >
+                      <img
+                        alt="Lenny N."
+                        class="MuiAvatar-img"
+                        src="url1"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div
+                    style="min-width: 100px; width: 0px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"
+                  >
+                    <strong>
+                      Lenny N.
+                    </strong>
+                  </div>
+                  <div
+                    style="width: 100%;"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-body3-41 MuiTypography-body1"
+                    >
+                      1 yrs exp
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root makeStyles-careGiverItem-7 MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-wrap-xs-nowrap"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div>
+                    <div
+                      class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-53 makeStyles-colorDefault-54 makeStyles-medium-56"
+                    >
+                      <img
+                        alt="Larry N."
+                        class="MuiAvatar-img"
+                        src="url1"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <div
+                    style="min-width: 100px; width: 0px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"
+                  >
+                    <strong>
+                      Larry N.
+                    </strong>
+                  </div>
+                  <div
+                    style="width: 100%;"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-body3-41 MuiTypography-body1"
+                    >
+                      1 yrs exp
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

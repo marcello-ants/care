@@ -1,0 +1,392 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InsuranceCarrier matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-header-1"
+  >
+    <h2
+      class="MuiTypography-root makeStyles-header-5 MuiTypography-h2"
+    >
+      Who is your long-term care insurance carrier?
+    </h2>
+  </div>
+  <div
+    class="MuiFormGroup-root makeStyles-radioGroup-4"
+    role="radiogroup"
+  >
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary PrivateSwitchBase-checked-10 Mui-checked makeStyles-checked-7 MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="CNA"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-13"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+            <path
+              d="M12 19.11A7.11 7.11 0 104.89 12 7.12 7.12 0 0012 19.11z"
+              fill="#3d73aa"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        CNA
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="JOHN_HANCOCK"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-14"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        John Hancock
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="METLIFE"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-15"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        MetLife
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="BANKERS_LIFE"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-16"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        Bankers Life
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="TRANS_AMERICA"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-17"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        Transamerica
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="MUTUAL_OF_OMAHA"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-18"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        Mutual of Omaha
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="SENIOR_HEALTH_INSURANCE_COMPANY_OF_PENNSYLVANIA"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-19"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        Senior Health Insurance Company of Pennsylvania
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="UNSURE"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-20"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        I'm not sure
+      </span>
+    </label>
+    <label
+      class="MuiFormControlLabel-root makeStyles-radio-3"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-9 MuiRadio-root makeStyles-root-6 MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-12"
+            name="insurance-carrier"
+            type="radio"
+            value="NONE"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-21"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.25 12A11.32 11.32 0 0112 23.25 11.32 11.32 0 01.75 12a11.25 11.25 0 0122.5 0z"
+              fill="#fff"
+            />
+            <path
+              d="M12 23.75A11.75 11.75 0 1123.75 12 11.76 11.76 0 0112 23.75zm0-22.5A10.75 10.75 0 1022.75 12 10.76 10.76 0 0012 1.25z"
+              fill="#23405f"
+            />
+          </svg>
+        </span>
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        None of the above
+      </span>
+    </label>
+  </div>
+  <div
+    class="makeStyles-buttonContainer-2"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Next
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;

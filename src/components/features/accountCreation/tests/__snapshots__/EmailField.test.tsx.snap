@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmailField matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiFormControl-root MuiTextField-root makeStyles-inline-1"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+      data-shrink="false"
+      for="email"
+      id="email-label"
+    >
+      Email Address
+    </label>
+    <div
+      class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+    >
+      <input
+        aria-invalid="false"
+        class="MuiInputBase-input MuiInput-input"
+        id="email"
+        name="email"
+        type="email"
+        value=""
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

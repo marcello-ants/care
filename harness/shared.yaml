@@ -1,0 +1,119 @@
+## shared.yaml
+#
+# This file is for defining common configuration for your service across all
+# environments.
+#
+# https://github.com/care-dot-com/devops-kubernetes-templates#readme
+# https://bravo-docs.useast1.dev.omni.carezen.net/docs/gettingstarted/newservice/
+#
+# Variable precedence:
+#   values.yaml -> shared.yaml -> ${env}.yaml
+#
+# Dicts defined in values.yaml will get merged
+# Lists defined in values.yaml will get overridden
+#
+
+global:
+  namespace: mfe
+
+configMapSpec:
+  ${service.name}:
+    CZEN_GENERAL: https://www.${environmentVariable.env_short_name}.carezen.net
+    CZEN_GENERAL_LOGIN: https://www.${environmentVariable.env_short_name}.carezen.net/login
+    DEPLOYMENT_ENVIRONMENT: ${environmentVariable.env_short_name}
+    NEXT_PUBLIC_AMPLITUDE_ENV: ${environmentVariable.env_short_name}
+    NEXT_PUBLIC_ANALYTICS_ENABLED: 'true'
+    NEXT_PUBLIC_CDN_ROOT: https://www.${environmentVariable.env_short_name}.carezen.net
+    NEXT_PUBLIC_GOOGLE_MAPS_KEY: AIzaSyD1SEu0JBu7nD1-26zsIBoMM8TM79jKahw
+    NEXT_PUBLIC_GRAPHQL_URL: /api/graphql
+    NEXT_PUBLIC_OIDC_CALLBACK_PATH: /app/enrollment/authCallback
+    NEXT_PUBLIC_OIDC_CLIENT_ID: oidc-proxy
+    NEXT_PUBLIC_OIDC_CLIENT_SCOPE: openid czen profile offline
+    NEXT_PUBLIC_OIDC_RESPONSE_TYPE: code
+    NEXT_PUBLIC_OIDC_LOGOUT_URL: https://www.${environmentVariable.env_short_name}.carezen.net/visitor/logout.do
+    NEXT_PUBLIC_OIDC_STS_AUTHORITY: https://www.${environmentVariable.env_short_name}.carezen.net/api/id-oidc-proxy/care
+    NODE_ENV: production
+    OIDC_SERVER_CALLBACK_URL: https://www.${environmentVariable.env_short_name}.carezen.net/app/enrollment/authCallback
+    OIDC_SERVER_OAUTH_URL: https://auth.${environmentVariable.env_short_name}.carezen.net/oauth2/auth
+    OIDC_SERVER_TOKEN_EXCHANGE_URL: https://auth.${environmentVariable.env_short_name}.carezen.net/oauth2/token
+    OTEL_SERVICE_NAME: ${service.name}
+    OTEL_EXPORTER_OTLP_INSECURE: 'true'
+    SECRETS_PATH: /etc/secrets
+    SENTRY_ENV: ${environmentVariable.env_short_name}
+    SENTRY_ENABLED: 'true'
+    SENTRY_DSN: https://36dc411f3c5c479cb3563c371bcf24e7@o466311.ingest.sentry.io/5614862
+    SIFT_SCIENCE_ENABLED: 'true'
+    SPLUNK_RUM_APP_NAME: ${service.name}
+    SPLUNK_RUM_BEACON_URL: https://rum-ingest.us0.signalfx.com/v1/rum
+    SPLUNK_RUM_ENV: ${environmentVariable.env_short_name}
+    SPLUNK_RUM_KEY: VCZHM4mOCtC-hL9uQAO9kg
+    TEALIUM_ENV: ${environmentVariable.env_short_name}
+    LOG_LEVEL: 'info' # can adjust to 'debug' when troubleshooting
+
+deploymentSpec:
+  annotations:
+    care.team: sc
+    care.contact: slack:support-enrollment-mfe
+  podSpec:
+    containers:
+      - image: ${artifact.metadata.image}
+        name: ${service.name}
+        livenessProbe:
+          failureThreshold: 3
+          initialDelaySeconds: 30
+          periodSeconds: 10
+          successThreshold: 1
+          tcpSocket:
+            port: 3000
+        ports:
+          - containerPort: 3000
+        readinessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /app/enrollment
+            port: 3000
+            scheme: HTTP
+          initialDelaySeconds: 30
+          periodSeconds: 10
+          successThreshold: 1
+        resources:
+          requests:
+            memory: 500M
+            cpu: 250m
+          limits:
+            memory: 500M
+            cpu: 250m
+  progressDeadlineSeconds: 300
+  replicas: 2
+
+externalSecrets:
+  - ${service.name}-k8s-secrets
+
+extraDeploymentEnvVars:
+  - name: OTEL_EXPORTER_OTLP_ENDPOINT
+    value: 'http://$(HOST_IP):55681/v1/trace'
+
+serviceAccount:
+  arn: arn:aws:iam::${context.aws.account_number}:role/sa-${service.name}-${context.region.short_format_region}
+
+serviceSpec:
+  ${service.name}:
+    ports:
+      - name: http-api
+        port: 3000
+
+virtualServiceSpec:
+  ${service.name}:
+    gateways:
+      - istio-system/istio-ingressgateway
+    hosts:
+      - ${service.name}.${context.region.short_format_region}.${environmentVariable.env_short_name}.omni.carezen.net
+    http:
+      - retries:
+          attempts: 3
+        route:
+          - destination:
+              host: ${service.name}
+              port:
+                number: 3000
+        timeout: 10s

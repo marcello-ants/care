@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NameForm matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-4 MuiTypography-h2"
+      >
+        What's your name?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-5"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="firstName"
+          id="firstName-label"
+        >
+          First name
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="firstName"
+            name="firstName"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-5"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="lastName"
+          id="lastName-label"
+        >
+          Last name
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="lastName"
+            name="lastName"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-footerActions-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-buttonContainer-3"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Submit
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

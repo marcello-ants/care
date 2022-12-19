@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`What level page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-wrapper-3 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 MuiTypography-colorTextPrimary"
+      >
+        What level is this for?
+      </h2>
+      <ul
+        class="MuiList-root makeStyles-selector-2 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.level.0"
+            name="level"
+            readonly=""
+            type="radio"
+            value="ADULT"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Adult
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.level.1"
+            name="level"
+            readonly=""
+            type="radio"
+            value="COLLEGE"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  College
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            checked=""
+            class="makeStyles-input-8"
+            id="selector.level.2"
+            name="level"
+            readonly=""
+            type="radio"
+            value="HIGH_SCHOOL"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  High school
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.level.3"
+            name="level"
+            readonly=""
+            type="radio"
+            value="MIDDLE_SCHOOL"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Middle school
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-root-5 pill MuiListItem-gutters"
+        >
+          <input
+            class="makeStyles-input-8"
+            id="selector.level.4"
+            name="level"
+            readonly=""
+            type="radio"
+            value="ELEMENTARY"
+          />
+          <div
+            class="makeStyles-controlIndicator-9 md"
+            tabindex="0"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+            >
+              <div>
+                <p
+                  class="MuiTypography-root MuiTypography-body1"
+                >
+                  Elementary
+                </p>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

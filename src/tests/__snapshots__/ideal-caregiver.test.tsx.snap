@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Seeker - Senior Care - Ideal Caregiver matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-13 MuiTypography-h2"
+      >
+        What are you looking for in a caregiver?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root makeStyles-idealCaregiverSubtitle-8 MuiTypography-h4"
+      >
+        Is there anything else we should know about your ideal caregiver?
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-caregiverContainer-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-examplesText-9 MuiTypography-body2"
+      >
+        Examples
+      </p>
+      <ul
+        class="MuiList-root makeStyles-bulletPointList-4 MuiList-padding"
+      >
+        <li
+          class="MuiListItem-root makeStyles-bulletPointItem-5"
+        >
+          <p
+            class="MuiTypography-root makeStyles-body3-17 MuiTypography-body1"
+          >
+            What type of personality would be a good fit?
+          </p>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-bulletPointItem-5"
+        >
+          <p
+            class="MuiTypography-root makeStyles-body3-17 MuiTypography-body1"
+          >
+            Are there any specialized skills they need?
+          </p>
+        </li>
+        <li
+          class="MuiListItem-root makeStyles-bulletPointItem-5"
+        >
+          <p
+            class="MuiTypography-root makeStyles-body3-17 MuiTypography-body1"
+          >
+            Should they have any specific hobbies/interests?
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <textarea
+        class="makeStyles-detailsBox-6"
+        id="details"
+        name="details"
+        placeholder="Share details here"
+        rows="7"
+        style="height: -4px; overflow: hidden;"
+      />
+      <textarea
+        aria-hidden="true"
+        class="makeStyles-detailsBox-6"
+        readonly=""
+        style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); width: 100%;"
+        tabindex="-1"
+      />
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-buttonsContainer-12 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-submitButtonContainer-3"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Submit
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

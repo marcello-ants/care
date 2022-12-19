@@ -1,0 +1,22 @@
+# You can find instructions for customizing these configs in Bootstrapping a New Service under Kubernetes
+# with a full explanation of how the yaml files work in the templates readme.
+# https://bravo-docs.useast1.dev.omni.carezen.net/docs/gettingstarted/newservice/
+# https://github.com/care-dot-com/devops-kubernetes-templates#readme
+
+configMapSpec:
+  ${service.name}:
+    CZEN_GENERAL: https://www.care.com
+    CZEN_GENERAL_LOGIN: https://www.care.com/login
+    NEXT_PUBLIC_AMPLITUDE_API_KEY: 49ee77491a2b775cf48ecf4a55ce04c5
+    NEXT_PUBLIC_CDN_ROOT: https://www.care.com
+    NEXT_PUBLIC_GOOGLE_MAPS_KEY: AIzaSyCZRsMEX8afumnPffxxNzAYgucehAvc9iE
+    NEXT_PUBLIC_OIDC_LOGOUT_URL: https://www.care.com/visitor/logout.do
+    NEXT_PUBLIC_OIDC_STS_AUTHORITY: https://www.care.com/api/id-oidc-proxy/care
+    OIDC_SERVER_CALLBACK_URL: https://www.care.com/app/enrollment/authCallback
+    OIDC_SERVER_OAUTH_URL: https://auth.careapis.com/oauth2/auth
+    OIDC_SERVER_TOKEN_EXCHANGE_URL: https://auth.careapis.com/oauth2/token
+    SIFT_SCIENCE_ACCOUNT_ID: bdcf8ce003
+    GOOGLE_TAG_MANAGER_ID: 'GTM-N456RN6'
+
+deploymentSpec:
+  replicas: 3

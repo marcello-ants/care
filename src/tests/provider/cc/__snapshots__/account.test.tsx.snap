@@ -1,0 +1,246 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Account matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-gridContainer-1 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-alertContainer-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-11"
+      >
+        <div
+          class="MuiPaper-root MuiAlert-root MuiAlert-standardInfo makeStyles-alertContent-9 MuiPaper-elevation0"
+          role="alert"
+        >
+          <div
+            class="MuiAlert-icon"
+          >
+            <p
+              class="MuiTypography-root makeStyles-alertEmoji-10 MuiTypography-body2"
+            >
+              <span>
+                🎉
+              </span>
+            </p>
+          </div>
+          <div
+            class="MuiAlert-message"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              <span>
+                <span>
+                  There are new jobs near you.
+                </span>
+              </span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-26 MuiTypography-h2"
+      >
+        <span>
+          Create an account
+        </span>
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-nameFieldContainer-6"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-27"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="firstNameInput"
+            id="firstNameInput-label"
+          >
+            First name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="firstNameInput"
+              name="firstName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-nameFieldContainer-6"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-27"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="lastNameInput"
+            id="lastNameInput-label"
+          >
+            Last name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="lastNameInput"
+              name="lastName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <p
+          class="MuiTypography-root makeStyles-info1-16 makeStyles-helperText-7 MuiTypography-body1 MuiTypography-colorTextSecondary"
+        >
+          Families only see the first initial
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-5 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-27"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-inputContainer-5 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inline-27"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="password"
+          id="password-label"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-describedby="password-helper-text"
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="password"
+            name="password"
+            type="password"
+            value=""
+          />
+        </div>
+        <p
+          class="MuiFormHelperText-root"
+          id="password-helper-text"
+        >
+          At least 6 characters
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-legalTextContainer-3 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-legalText-4 MuiTypography-body2"
+      >
+        <span>
+          By clicking "Join now", you agree to our
+        </span>
+         
+        <a
+          href="https://www.care.com/terms-of-use-popup-p1030.html"
+          rel="noreferrer"
+          tabindex="-1"
+          target="_blank"
+        >
+          Terms of Use
+        </a>
+         
+        <span>
+          and
+        </span>
+         
+        <a
+          href="https://www.care.com/privacy-policy-popup-p1031.html"
+          rel="noreferrer"
+          tabindex="-1"
+          target="_blank"
+        >
+          Privacy Policy
+        </a>
+        <span>
+          .
+        </span>
+      </p>
+    </div>
+    <div
+      class="makeStyles-wrapper-31"
+    >
+      <div
+        class="makeStyles-fade-32"
+        style="position: relative; width: auto; margin-bottom: -24px; padding: 32px 40px 24px;"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Join now
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

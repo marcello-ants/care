@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CommunityCard matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-outlined MuiPaper-rounded"
+  >
+    <div
+      class="makeStyles-cardContainer-8"
+    >
+      <div
+        class="MuiCardMedia-root makeStyles-media-2"
+        data-testid="image"
+        style="background-image: url(/app/enrollment/community-list/1.jpg);"
+      />
+      <div
+        class="MuiCardContent-root makeStyles-content-4"
+      >
+        <div>
+          <h4
+            class="MuiTypography-root makeStyles-title-9 MuiTypography-h4"
+          >
+            1. Signature Senior Living
+          </h4>
+          <div
+            class="MuiGrid-root makeStyles-container-5 MuiGrid-container MuiGrid-align-items-xs-center"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-24 makeStyles-icon-7"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M11.24 20.25a.81.81 0 00.75.45.91.91 0 00.77-.4l3.83-6.62.14-.25c.17-.31.45-.81.74-1.45a7 7 0 00.74-2.61 6.22 6.22 0 10-12.44 0A6.77 6.77 0 006.52 12a13.35 13.35 0 00.86 1.6l3.83 6.64zM16 13.39l-3.68 6.39-.43.76-.43-.77-3.65-6.46a14.78 14.78 0 01-.89-1.71 6.2 6.2 0 01-.62-2.22 5.69 5.69 0 015.7-5.7 5.57 5.57 0 015.62 5.7 6.23 6.23 0 01-.62 2.26 17.53 17.53 0 01-1 1.75z"
+                fill="#213f5f"
+                fill-rule="evenodd"
+              />
+              <path
+                d="M11.25 20.26l-.25.14zm0 0l.27-.13zm1.53.06l.26.16zm3.83-6.62l.26.15zm.14-.25l-.26-.15zm0 0l-.26-.16zm0 0l.26.15zm0 0l-.27-.15zm.73-1.45l-.27-.13zm-11 0l.27-.12zm.86 1.6l.25-.16zm0 0l.26-.15zm0 0l-.26.15zm3.83 6.64l.26-.15zm1.12-.46l-.26-.15zM16 13.39l-.26-.16zm-4.11 7.15l-.26.14.26.46.26-.46zm-.43-.77l.26-.14zm-3.65-6.46l.26-.15zm-.89-1.71l-.28.12zm10.7-2.22zM17 11.64l-.27-.12zm-5.44 8.49l-.54.26zm.48.28a.51.51 0 01-.48-.28l-.56.27a1.12 1.12 0 001 .6zm.51-.25a.61.61 0 01-.51.25V21a1.22 1.22 0 001-.54zm3.83-6.62l-3.83 6.62.52.3 3.83-6.62zm.14-.25c-.06.11-.12.2-.15.27l.53.27.14-.25zm0 0l.52.29zm0 0l.52.31zm0 0l.54.27zm.74-1.44c-.29.63-.56 1.12-.73 1.43l.52.29c.17-.31.46-.82.75-1.47zm.71-2.48a6.78 6.78 0 01-.71 2.48l.54.25a7.28 7.28 0 00.77-2.73zM12 3.46a6 6 0 015.92 5.92h.6A6.56 6.56 0 0012 2.86zM6.08 9.38A6 6 0 0112 3.46v-.6a6.56 6.56 0 00-6.52 6.52zm.71 2.47a6.68 6.68 0 01-.71-2.47h-.6a7.18 7.18 0 00.77 2.72zm.84 1.56a13.41 13.41 0 01-.84-1.56l-.54.25a14.21 14.21 0 00.88 1.64zm0 0l-.5.33zm0 0l-.52.3zm3.83 6.64l-3.8-6.6-.52.3L11 20.39zm0 0l-.52.3zm1.11-.17l3.68-6.39-.52-.3-3.68 6.39zm-.43.75l.43-.75-.52-.3-.43.76zm-1-.76l.44.76.52-.29-.43-.76zm-3.59-6.41l3.67 6.46.53-.29-3.68-6.47zm-.91-1.74a16.06 16.06 0 00.92 1.75l.51-.32a13.37 13.37 0 01-.88-1.68zM6 9.38a6.45 6.45 0 00.64 2.34l.55-.25a5.83 5.83 0 01-.59-2.09zm6-6a6 6 0 00-6 6h.6A5.39 5.39 0 0112 4zm5.92 6a5.87 5.87 0 00-5.92-6V4a5.26 5.26 0 015.32 5.39zm-.69 2.38a6.59 6.59 0 00.69-2.39h-.6a6 6 0 01-.63 2.14zm-.95 1.78a16.09 16.09 0 00.95-1.78l-.54-.25a15.52 15.52 0 01-.92 1.71zM11.92 11.9a2.29 2.29 0 10-2.29-2.29 2.28 2.28 0 002.29 2.29z"
+                fill="#213f5f"
+              />
+            </svg>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-13 makeStyles-copy-6 MuiTypography-body1"
+              >
+                Boston, MA · 8.9mi
+              </p>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-container-5 MuiGrid-container MuiGrid-align-items-xs-center"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-25 makeStyles-icon-7"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M11.15 18v-1.2h-.1a4.47 4.47 0 01-2-1.6.67.67 0 01.1-1 .76.76 0 011 .1 3 3 0 001.4 1.1c.1 0 .3.1.4.1a1.61 1.61 0 00.9-.3 1.27 1.27 0 00.7-.9c.1-.4 0-1-1.5-1.6-1.1-.4-2.7-1-2.9-2.5a2.38 2.38 0 01.5-1.8 2.75 2.75 0 011.6-1V6.3a.7.7 0 011.4 0v1a5.7 5.7 0 012.2 1.1.78.78 0 01.2 1 .71.71 0 01-.6.3.6.6 0 01-.4-.1 3.38 3.38 0 00-1.9-.9h-.1a2.23 2.23 0 00-1.3.6.84.84 0 00-.2.7c.1.7 1.2 1.1 2 1.4a4 4 0 012.2 1.6 2.7 2.7 0 01.3 1.5 2.47 2.47 0 01-1.4 1.9 3 3 0 01-1 .4V18a.68.68 0 01-.7.7.77.77 0 01-.8-.7z"
+                fill="#182c42"
+              />
+              <path
+                d="M2.85 9.8a.54.54 0 01-.4-.8 9.81 9.81 0 016.8-6.6A12.59 12.59 0 0112 2a10 10 0 018.5 4.9l.3-2.1a.67.67 0 01.7-.6h.1a.66.66 0 01.6.7L21.65 9c0 .4-.4.6-.8.6h-.1l-3.7-1.2a.68.68 0 01-.4-.8.63.63 0 01.6-.5h.2l2.1.7a8.58 8.58 0 00-9.8-4.2 8.65 8.65 0 00-5.9 5.7.63.63 0 01-.6.5c-.25.1-.4.1-.4 0zM21.15 14.2a.54.54 0 01.4.8 9.81 9.81 0 01-6.8 6.6 12.59 12.59 0 01-2.7.4 10 10 0 01-8.5-4.9l-.3 2.1a.67.67 0 01-.7.6h-.1a.66.66 0 01-.6-.7l.5-4.1c0-.4.4-.6.8-.6h.1L7 15.6a.68.68 0 01.4.8.63.63 0 01-.6.5h-.2l-2.1-.7a8.58 8.58 0 009.8 4.2 8.65 8.65 0 005.9-5.7.63.63 0 01.6-.5c.2-.1.25-.1.35 0z"
+                fill="#182c42"
+              />
+            </svg>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-13 makeStyles-copy-6 MuiTypography-body1"
+              >
+                Starting at $2500/mo
+              </p>
+            </div>
+          </div>
+        </div>
+        <span
+          class="makeStyles-checkbox-3"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-26 MuiCheckbox-root MuiCheckbox-colorSecondary PrivateSwitchBase-checked-27 Mui-checked MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                checked=""
+                class="PrivateSwitchBase-input-29"
+                data-indeterminate="false"
+                name="options"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-30"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M18.89 23.25H5.11a4.34 4.34 0 01-4.36-4.36V5.11A4.34 4.34 0 015.11.75h13.78a4.34 4.34 0 014.36 4.36v13.78a4.41 4.41 0 01-4.36 4.36zM5.11 2.59A2.41 2.41 0 002.69 5v13.79a2.4 2.4 0 002.42 2.42h13.78a2.4 2.4 0 002.42-2.42V5a2.41 2.41 0 00-2.42-2.43z"
+                  fill="#3d73aa"
+                />
+                <path
+                  d="M21.5 2.2H2.2v19.3h19.3z"
+                  fill="#3d73aa"
+                />
+                <path
+                  d="M9.67 16.36a1.32 1.32 0 01-.58-.19l-2.72-2.62a.88.88 0 010-1.16.89.89 0 011.17 0l2.13 2 6.79-6.69a.88.88 0 011.16 0 .87.87 0 010 1.17l-7.37 7.17a.66.66 0 01-.58.32z"
+                  fill="#fff"
+                />
+                <path
+                  d="M9.67 16.61a1.48 1.48 0 01-.67-.22h-.06L6.2 13.73a1.14 1.14 0 010-1.49 1.13 1.13 0 011.52-.05l2 1.89 6.62-6.53a1.18 1.18 0 011.51 0 1.13 1.13 0 010 1.51l-7.35 7.16a1 1 0 01-.83.39zM9.24 16a1 1 0 00.43.15A.47.47 0 0010 16l.05-.07 7.37-7.17a.58.58 0 00.14-.41.57.57 0 00-.14-.4.68.68 0 00-.81 0l-7 6.86-2.31-2.2a.63.63 0 00-.82 0 .65.65 0 000 .82z"
+                  fill="#fff"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

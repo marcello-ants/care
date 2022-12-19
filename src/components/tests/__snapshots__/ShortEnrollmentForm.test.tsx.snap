@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShortEnrollmentForm matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root makeStyles-selectContainer-3"
+      >
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline no-value MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="mui-component-select-vertical"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="mui-component-select-vertical"
+            role="button"
+            tabindex="-1"
+          >
+            What type of care do you need?
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            name="vertical"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-19"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+              fill="#223f5f"
+            />
+            <path
+              d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+              fill="#223f5f"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inlineTextFieldOverride-1 makeStyles-inline-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="firstName"
+            id="firstName-label"
+          >
+            First name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input MuiInputBase-inputHiddenLabel"
+              id="firstName"
+              name="firstName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inlineTextFieldOverride-1 makeStyles-inline-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="lastName"
+            id="lastName-label"
+          >
+            Last name
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input MuiInputBase-inputHiddenLabel"
+              id="lastName"
+              name="lastName"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-inlineTextFieldOverride-1 makeStyles-inline-6"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="email"
+          id="email-label"
+        >
+          Email address
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input"
+            id="email"
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root makeStyles-zipInput-2 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inlineTextFieldOverride-10 makeStyles-inlineTextFieldOverride-12 makeStyles-inline-6"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="zipCode"
+            id="zipCode-label"
+          >
+            ZIP code
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+              id="zipCode"
+              name="zipCode"
+              type="number"
+              value=""
+            />
+            <div
+              class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-13"
+      >
+        <div
+          class="MuiFormControl-root makeStyles-selectContainer-14"
+        >
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline no-value MuiInputBase-formControl MuiInput-formControl"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="source"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="source"
+              role="button"
+              tabindex="-1"
+            >
+              How did you hear about us?
+            </div>
+            <input
+              aria-hidden="true"
+              class="MuiSelect-nativeInput"
+              name="howDidYouHearAboutUs"
+              tabindex="-1"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-20"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+                fill="#223f5f"
+              />
+              <path
+                d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+                fill="#223f5f"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiFormHelperText-root"
+          >
+            <span>
+              ​
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-16"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Join free now
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

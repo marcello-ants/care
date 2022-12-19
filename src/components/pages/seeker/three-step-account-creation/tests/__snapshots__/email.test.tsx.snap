@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Housekeeping - email account creation form matches snapshots 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="makeStyles-root-3"
+    >
+      <div
+        class="makeStyles-content-4 makeStyles-information-8 makeStyles-roundCorners-6"
+        style="width: 100%;"
+      >
+        <div
+          class="makeStyles-icon-7"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-13"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M2 12a10 10 0 1110 10A10 10 0 012 12zm1.32 0a8.64 8.64 0 108.59-8.68A8.68 8.68 0 003.32 12z"
+              fill="#182c42"
+            />
+            <path
+              d="M12 17a.83.83 0 00.82-.83v-5.45a.83.83 0 10-1.65 0v5.45A.78.78 0 0012 17zM12 8.65a.83.83 0 10-.83-.82.82.82 0 00.83.82z"
+              fill="#182c42"
+            />
+          </svg>
+        </div>
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+            data-testid="housekeepers-nearby"
+          >
+            Nice! 100 housekeepers near you!
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-28"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2"
+      >
+        Create a free account
+      </h2>
+      <div
+        class="MuiBox-root MuiBox-root-29"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          See housekeepers who match your needs. It only takes a few seconds.
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-inputContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-inline-30"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            for="email"
+            id="email-label"
+          >
+            Email address
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              id="email"
+              name="email"
+              type="email"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-34"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Next
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

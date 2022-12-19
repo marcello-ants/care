@@ -1,0 +1,556 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Caregiver Profile list matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="makeStyles-header-24"
+    >
+      <div
+        class="makeStyles-container-26"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-headerText-25 MuiTypography-h2"
+        >
+          <span>
+            Here's a personalized list of caregivers based on your needs
+          </span>
+        </h2>
+        <p
+          class="MuiTypography-root makeStyles-subheader-27 MuiTypography-body1"
+        >
+          <span>
+            Shortlist the ones you like best
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      class="makeStyles-root-42"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-44 makeStyles-card-7 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="caregiverCard"
+      >
+        <div
+          class="MuiCardHeader-root makeStyles-cardHeader-10"
+        >
+          <div
+            class="MuiCardHeader-avatar"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-45 makeStyles-colorDefault-46 makeStyles-xLarge-50"
+              >
+                <img
+                  alt="Michelle T."
+                  class="MuiAvatar-img"
+                  src="/app/enrollment/joanna.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardHeader-content makeStyles-cardHeaderContent-11"
+          >
+            <span
+              class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Michelle T.
+              </h3>
+              <div
+                class="MuiBox-root MuiBox-root-56"
+              />
+            </span>
+            <span
+              class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 MuiTypography-body1"
+              >
+                <span>
+                  Boston, MA • 1.2 mi away
+                </span>
+                <br />
+                <span>
+                  15-25/hr • 10 yrs exp.
+                </span>
+              </p>
+            </span>
+          </div>
+          <div
+            class="MuiCardHeader-action"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-57 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-60"
+                  data-indeterminate="false"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-61"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root makeStyles-cardContent-8"
+        >
+          <div
+            data-testid="quotes-icon"
+          >
+            <svg
+              fill="none"
+              height="32"
+              width="32"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <mask
+                height="32"
+                id="a"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="32"
+                x="0"
+                y="0"
+              >
+                <rect
+                  fill="#F5F5F5"
+                  height="31"
+                  rx="15.5"
+                  stroke="#979797"
+                  transform="rotate(-90 .5 31.5)"
+                  width="31"
+                  x=".5"
+                  y="31.5"
+                />
+              </mask>
+              <g
+                mask="url(#a)"
+              >
+                <mask
+                  height="34"
+                  id="b"
+                  mask-type="alpha"
+                  maskUnits="userSpaceOnUse"
+                  width="34"
+                  x="-1"
+                  y="0"
+                >
+                  <path
+                    d="M-1 0h34v34H-1z"
+                    fill="#fff"
+                  />
+                </mask>
+                <g
+                  mask="url(#b)"
+                >
+                  <path
+                    d="M-1.327 0h34v34h-34z"
+                    fill="#E6E8EA"
+                  />
+                </g>
+              </g>
+              <path
+                d="M21.037 16.694c.017-.108.034-.206.05-.29.324-1.8 1.183-3.498 2.497-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.827 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.001c-.818-.887-2.28-1.118-3.415-.538zM11.143 16.694l.05-.29c.325-1.8 1.184-3.498 2.498-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.828 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.002c-.817-.887-2.279-1.118-3.414-.538z"
+                fill="#B3BAC1"
+              />
+              <path
+                d="M23.463 16.695c-.784-.646-1.892-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.742 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014zM13.57 16.695c-.784-.646-1.893-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.743 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014z"
+                stroke="#213F5F"
+                stroke-width=".8"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 makeStyles-readMore-9 MuiTypography-body1"
+          >
+            I have a masters degree in speech language pathology and I have 3 years of
+            <noscript>
+              experience caring for the elderly.
+            </noscript>
+            ... 
+            <button
+              class="MuiTypography-root MuiLink-root MuiLink-underlineHover makeStyles-link-62 MuiLink-button MuiTypography-colorPrimary"
+            >
+              More
+            </button>
+          </p>
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-44 makeStyles-card-7 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="caregiverCard"
+      >
+        <div
+          class="MuiCardHeader-root makeStyles-cardHeader-10"
+        >
+          <div
+            class="MuiCardHeader-avatar"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-45 makeStyles-colorDefault-46 makeStyles-xLarge-50"
+              >
+                <img
+                  alt="Lauren K."
+                  class="MuiAvatar-img"
+                  src="/app/enrollment/joanna.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardHeader-content makeStyles-cardHeaderContent-11"
+          >
+            <span
+              class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Lauren K.
+              </h3>
+              <div
+                class="MuiBox-root MuiBox-root-63"
+              />
+            </span>
+            <span
+              class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 MuiTypography-body1"
+              >
+                <span>
+                  Boston, MA • 1.2 mi away
+                </span>
+                <br />
+                <span>
+                  15-25/hr • 9 yrs exp.
+                </span>
+              </p>
+            </span>
+          </div>
+          <div
+            class="MuiCardHeader-action"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-57 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-60"
+                  data-indeterminate="false"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-64"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root makeStyles-cardContent-8"
+        >
+          <div
+            data-testid="quotes-icon"
+          >
+            <svg
+              fill="none"
+              height="32"
+              width="32"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <mask
+                height="32"
+                id="a"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="32"
+                x="0"
+                y="0"
+              >
+                <rect
+                  fill="#F5F5F5"
+                  height="31"
+                  rx="15.5"
+                  stroke="#979797"
+                  transform="rotate(-90 .5 31.5)"
+                  width="31"
+                  x=".5"
+                  y="31.5"
+                />
+              </mask>
+              <g
+                mask="url(#a)"
+              >
+                <mask
+                  height="34"
+                  id="b"
+                  mask-type="alpha"
+                  maskUnits="userSpaceOnUse"
+                  width="34"
+                  x="-1"
+                  y="0"
+                >
+                  <path
+                    d="M-1 0h34v34H-1z"
+                    fill="#fff"
+                  />
+                </mask>
+                <g
+                  mask="url(#b)"
+                >
+                  <path
+                    d="M-1.327 0h34v34h-34z"
+                    fill="#E6E8EA"
+                  />
+                </g>
+              </g>
+              <path
+                d="M21.037 16.694c.017-.108.034-.206.05-.29.324-1.8 1.183-3.498 2.497-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.827 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.001c-.818-.887-2.28-1.118-3.415-.538zM11.143 16.694l.05-.29c.325-1.8 1.184-3.498 2.498-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.828 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.002c-.817-.887-2.279-1.118-3.414-.538z"
+                fill="#B3BAC1"
+              />
+              <path
+                d="M23.463 16.695c-.784-.646-1.892-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.742 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014zM13.57 16.695c-.784-.646-1.893-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.743 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014z"
+                stroke="#213F5F"
+                stroke-width=".8"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 makeStyles-readMore-9 MuiTypography-body1"
+          >
+            <noscript />
+          </p>
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-44 makeStyles-card-7 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="caregiverCard"
+      >
+        <div
+          class="MuiCardHeader-root makeStyles-cardHeader-10"
+        >
+          <div
+            class="MuiCardHeader-avatar"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-45 makeStyles-colorDefault-46 makeStyles-xLarge-50"
+              >
+                <img
+                  alt="Michael V."
+                  class="MuiAvatar-img"
+                  src="/app/enrollment/joanna.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardHeader-content makeStyles-cardHeaderContent-11"
+          >
+            <span
+              class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Michael V.
+              </h3>
+              <div
+                class="MuiBox-root MuiBox-root-65"
+              />
+            </span>
+            <span
+              class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 MuiTypography-body1"
+              >
+                <span>
+                  Boston, MA • 1.2 mi away
+                </span>
+                <br />
+                <span>
+                  15-15/hr • 9 yrs exp.
+                </span>
+              </p>
+            </span>
+          </div>
+          <div
+            class="MuiCardHeader-action"
+          >
+            <span
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-57 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <input
+                  class="PrivateSwitchBase-input-60"
+                  data-indeterminate="false"
+                  type="checkbox"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-66"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M5.6.75h12.8a4.8 4.8 0 014.85 4.85v12.8a4.8 4.8 0 01-4.85 4.85H5.6A4.8 4.8 0 01.75 18.4V5.6A4.93 4.93 0 015.6.75z"
+                    fill="#fff"
+                  />
+                  <path
+                    d="M18.4 23.27H5.6A4.88 4.88 0 01.73 18.4V5.6A4.93 4.93 0 015.6.73h12.8a4.88 4.88 0 014.87 4.87v12.8a4.88 4.88 0 01-4.87 4.87zM5.6 1.73A3.92 3.92 0 001.73 5.6v12.8a3.88 3.88 0 003.87 3.87h12.8a3.88 3.88 0 003.87-3.87V5.6a3.88 3.88 0 00-3.87-3.87z"
+                    fill="#23405f"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root makeStyles-cardContent-8"
+        >
+          <div
+            data-testid="quotes-icon"
+          >
+            <svg
+              fill="none"
+              height="32"
+              width="32"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <mask
+                height="32"
+                id="a"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="32"
+                x="0"
+                y="0"
+              >
+                <rect
+                  fill="#F5F5F5"
+                  height="31"
+                  rx="15.5"
+                  stroke="#979797"
+                  transform="rotate(-90 .5 31.5)"
+                  width="31"
+                  x=".5"
+                  y="31.5"
+                />
+              </mask>
+              <g
+                mask="url(#a)"
+              >
+                <mask
+                  height="34"
+                  id="b"
+                  mask-type="alpha"
+                  maskUnits="userSpaceOnUse"
+                  width="34"
+                  x="-1"
+                  y="0"
+                >
+                  <path
+                    d="M-1 0h34v34H-1z"
+                    fill="#fff"
+                  />
+                </mask>
+                <g
+                  mask="url(#b)"
+                >
+                  <path
+                    d="M-1.327 0h34v34h-34z"
+                    fill="#E6E8EA"
+                  />
+                </g>
+              </g>
+              <path
+                d="M21.037 16.694c.017-.108.034-.206.05-.29.324-1.8 1.183-3.498 2.497-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.827 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.001c-.818-.887-2.28-1.118-3.415-.538zM11.143 16.694l.05-.29c.325-1.8 1.184-3.498 2.498-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.828 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.002c-.817-.887-2.279-1.118-3.414-.538z"
+                fill="#B3BAC1"
+              />
+              <path
+                d="M23.463 16.695c-.784-.646-1.892-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.742 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014zM13.57 16.695c-.784-.646-1.893-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.743 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014z"
+                stroke="#213F5F"
+                stroke-width=".8"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-body3-31 makeStyles-text-12 makeStyles-readMore-9 MuiTypography-body1"
+          >
+            <noscript />
+          </p>
+        </div>
+      </div>
+      <a
+        class="MuiTypography-root MuiLink-root makeStyles-root-67 MuiLink-underlineNone makeStyles-skipLink-13 MuiTypography-colorPrimary"
+        href="#"
+      >
+        <p
+          class="MuiTypography-root makeStyles-link2-39 MuiTypography-body1"
+        >
+          Skip and view all
+        </p>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

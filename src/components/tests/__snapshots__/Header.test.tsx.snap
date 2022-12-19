@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header test should match snapshot 1`] = `
+<DocumentFragment>
+  <h2
+    class="MuiTypography-root makeStyles-header-1 MuiTypography-h2"
+  >
+    This is a header
+  </h2>
+</DocumentFragment>
+`;

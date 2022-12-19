@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Provider Sc Home matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-gridContainer-1 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-root-5"
+        focusable="false"
+        viewBox="0 0 48 48"
+      >
+        <path
+          d="M42.29 20.87c-.78 3.13-3.29 5.87-5.46 8.21a55.86 55.86 0 01-5.47 5.3c-1 .84-2 1.64-3.09 2.39a10.92 10.92 0 01-3.17 1.86 4.33 4.33 0 01-1.06.13 4.19 4.19 0 01-1.04-.13 11 11 0 01-3.18-1.86c-1.06-.75-2.09-1.55-3.09-2.39a58.2 58.2 0 01-5.47-5.3C9.13 26.74 6.58 24 5.8 20.87a9.78 9.78 0 013.79-10.1 9.48 9.48 0 014.68-1.63 9.65 9.65 0 016.12 1.55c.47.32.9.68 1.36 1a9 9 0 00.83.53 3.55 3.55 0 00.44.21 2.56 2.56 0 002 0 3.42 3.42 0 00.43-.21 9.13 9.13 0 00.84-.53c.45-.33.89-.69 1.36-1a9.65 9.65 0 016.12-1.55 9.41 9.41 0 014.67 1.63 9.78 9.78 0 013.85 10.1z"
+          fill="none"
+        />
+        <path
+          d="M24 40.05a5.53 5.53 0 01-1.37-.17 9.81 9.81 0 01-3.12-1.71l-.46-.34c-1-.74-2.11-1.56-3.17-2.45A57.42 57.42 0 0110.33 30l-.18-.2C8 27.46 5.41 24.57 4.58 21.22A11 11 0 018.87 9.79a10.68 10.68 0 015.29-1.85 10.84 10.84 0 016.92 1.77c.29.19.57.4.85.61l.54.41a7 7 0 00.71.45l.3.15h.1a1.34 1.34 0 001 0l.31-.16a7.32 7.32 0 00.71-.45l.56-.41c.27-.21.55-.42.83-.61a10.79 10.79 0 016.92-1.77 10.68 10.68 0 015.29 1.86 11 11 0 014.29 11.42c-.83 3.35-3.45 6.23-5.56 8.55l-.18.19a60 60 0 01-5.59 5.42c-1.08.91-2.12 1.71-3.18 2.45l-.46.34a9.76 9.76 0 01-3.11 1.71 5.65 5.65 0 01-1.41.18zM15 10.4h-.69a8.22 8.22 0 00-4.06 1.42A8.57 8.57 0 007 20.62c.68 2.74 3 5.26 5 7.47l.18.2a54.83 54.83 0 005.35 5.18c1 .85 2 1.63 3 2.32l.51.36a7.76 7.76 0 002.27 1.32 3 3 0 001.47 0 7.93 7.93 0 002.28-1.32l.5-.36c1-.7 2-1.46 3-2.32a58.48 58.48 0 005.35-5.18l.17-.2c2-2.22 4.31-4.73 5-7.48a8.54 8.54 0 00-3.3-8.77 8.15 8.15 0 00-4.05-1.42 8.42 8.42 0 00-5.33 1.35c-.25.17-.49.35-.73.53l-.61.46c-.26.18-.58.4-.95.61a5.69 5.69 0 01-.56.26h-.1a3.82 3.82 0 01-2.88 0 5.69 5.69 0 01-.56-.26 9.85 9.85 0 01-.95-.62l-.6-.44c-.24-.18-.48-.37-.74-.54a8.21 8.21 0 00-4.67-1.37zm27.28 10.51z"
+          fill="#172c42"
+        />
+        <path
+          d="M28.5 24.24a4.22 4.22 0 01-2.29-.66l-5-3.23a1.23 1.23 0 00-1.56.2l-.67.73a3.71 3.71 0 01-5.16.3l-2.39-2A1.25 1.25 0 0113 17.64l2.38 2.05a1.23 1.23 0 001.71-.1l.67-.73a3.7 3.7 0 014.73-.61l5 3.23a1.76 1.76 0 002.7-1.7 1.71 1.71 0 00-.74-1.22l-7.93-5.43a1.26 1.26 0 01-.32-1.74 1.24 1.24 0 011.8-.32l8 5.44a4.25 4.25 0 01-2.45 7.73z"
+          fill="#213f5f"
+        />
+        <path
+          d="M24 40a5.2 5.2 0 01-1.37-.18 9.5 9.5 0 01-3.1-1.7l-.48-.35c-1-.73-2.11-1.56-3.17-2.44a60 60 0 01-5.59-5.42l-.17-.19c-2.11-2.32-4.74-5.2-5.57-8.56A11 11 0 018.88 9.75a10.79 10.79 0 015.29-1.86 10.9 10.9 0 016.92 1.77c.28.19.56.4.83.61l.55.41a7.92 7.92 0 00.71.46 2.3 2.3 0 00.32.15h.09a1.31 1.31 0 001 0 2.16 2.16 0 00.34-.16 5.84 5.84 0 00.71-.46c.19-.13.37-.27.55-.41s.55-.42.84-.61a11 11 0 0112.21.09 11 11 0 014.26 11.43c-.83 3.36-3.46 6.25-5.57 8.56l-.17.19a59.78 59.78 0 01-5.59 5.41C31.11 36.22 30 37 29 37.79l-.47.33a9.29 9.29 0 01-3.11 1.71A5.09 5.09 0 0124 40zm-9-29.66h-.7a8.27 8.27 0 00-4 1.41A8.55 8.55 0 007 20.57c.68 2.75 3 5.26 5 7.48l.18.19a56.18 56.18 0 005.35 5.19c1 .85 2 1.61 3 2.32l.51.36a7.5 7.5 0 002.27 1.31 2.82 2.82 0 001.47 0 7.5 7.5 0 002.27-1.31l.5-.36c1-.7 2-1.48 3-2.32a55 55 0 005.35-5.19l.17-.19c2-2.22 4.32-4.73 5-7.48a8.57 8.57 0 00-3.3-8.78 8.31 8.31 0 00-4.06-1.41 8.4 8.4 0 00-5.32 1.34c-.25.17-.49.36-.73.54l-.61.45a7.68 7.68 0 01-1 .61 4.68 4.68 0 01-.55.27 3.84 3.84 0 01-3 0 5.77 5.77 0 01-.56-.27 8.3 8.3 0 01-.95-.61l-.62-.46c-.24-.18-.47-.36-.72-.53a8.31 8.31 0 00-4.59-1.37zm27.29 10.53z"
+          fill="#213f5f"
+        />
+        <path
+          d="M14 33.19a1.25 1.25 0 01-.9-2.11l6-6.31a1.25 1.25 0 111.81 1.72l-6 6.31a1.26 1.26 0 01-.91.39zM17.69 36a1.24 1.24 0 01-.91-2.09L22.26 28a1.25 1.25 0 011.83 1.69l-5.48 6a1.24 1.24 0 01-.92.31zM21 38.89a1.25 1.25 0 01-.92-2.09l5.51-6.09a1.25 1.25 0 011.85 1.68l-5.51 6.09a1.27 1.27 0 01-.93.41zM10.72 29.24a1.2 1.2 0 01-.86-.35 1.24 1.24 0 010-1.76l8-8.29a1.24 1.24 0 111.79 1.73l-8 8.29a1.25 1.25 0 01-.93.38z"
+          fill="#213f5f"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-header-2 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-6 MuiTypography-h2"
+      >
+        Welcome to Care.com!
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-textSpacing-3 MuiTypography-body1"
+      >
+        We're a leading platform for care jobs. You can choose your clients, pay rate, and schedule.
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root makeStyles-textSpacing-7 MuiTypography-h4"
+      >
+        Here's what's next:
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-numberCircle-8 makeStyles-numberCircleText-10 MuiTypography-body2"
+      >
+        1
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-whatsNextList-12 MuiTypography-body2"
+      >
+        Create an account
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-numberCircleInactive-11 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-numberCircle-8 makeStyles-numberCircleText-10 MuiTypography-body2"
+      >
+        2
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-whatsNextList-12 MuiTypography-body2"
+      >
+        Complete your profile
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-numberCircleInactive-11 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-numberCircle-8 makeStyles-numberCircleText-10 MuiTypography-body2"
+      >
+        3
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-whatsNextList-12 MuiTypography-body2"
+      >
+        Pass required screenings
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-numberCircleInactive-11 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root makeStyles-numberCircle-8 makeStyles-numberCircleText-10 MuiTypography-body2"
+      >
+        4
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-whatsNextList-12 MuiTypography-body2"
+      >
+        Apply to jobs
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-getStartedButtonContainer-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Get started
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

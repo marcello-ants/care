@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HearAboutUs should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiFormControl-root makeStyles-selectContainer-1"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+      data-shrink="true"
+      id="source"
+    >
+      How did you hear about us?
+    </label>
+    <div
+      class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby="source"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+        id="source"
+        role="button"
+        tabindex="-1"
+      >
+        Cable TV Ad
+      </div>
+      <input
+        aria-hidden="true"
+        class="MuiSelect-nativeInput"
+        name="source"
+        tabindex="-1"
+        value="TV_AD"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-root-4"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M18.2 8a.91.91 0 011.2 0 .91.91 0 010 1.2L12.6 16a.91.91 0 01-1.2 0L4.6 9.2a.91.91 0 010-1.2.91.91 0 011.2 0l6.2 6.2z"
+          fill="#223f5f"
+        />
+        <path
+          d="M12 16.37a1 1 0 01-.71-.26l-6.8-6.8a1.09 1.09 0 010-1.42 1.09 1.09 0 011.42 0L12 14l6.09-6.1a1.09 1.09 0 011.42 0 1.09 1.09 0 010 1.42l-6.8 6.8a1 1 0 01-.71.25zM5.2 7.93a.69.69 0 00-.49.18.76.76 0 000 1l6.8 6.8a.78.78 0 001 0l6.8-6.8a.76.76 0 000-1 .76.76 0 00-1 0L12 14.41l-.11-.1-6.2-6.2a.69.69 0 00-.49-.18z"
+          fill="#223f5f"
+        />
+      </svg>
+    </div>
+    <p
+      class="MuiFormHelperText-root MuiFormHelperText-filled"
+    />
+  </div>
+</DocumentFragment>
+`;

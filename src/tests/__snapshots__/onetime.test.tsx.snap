@@ -1,0 +1,234 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`One time page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-5 MuiTypography-h2"
+      >
+        When do you need care?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root makeStyles-dateSubheader-2 MuiTypography-h4"
+      >
+        Dates
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-datePickerContainer-6 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-root-11"
+        data-testid="keyboardDatePicker"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="startDate"
+          id="startDate-label"
+        >
+          Estimated start date
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+            id="startDate"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-25"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M17.79 4.49h-.47v-.94a.63.63 0 10-1.25 0v1H7.85v-1a.67.67 0 00-.62-.63.67.67 0 00-.63.63v1h-.47A3.13 3.13 0 003 7.7V18a3.14 3.14 0 003.13 3.13h11.74a2.83 2.83 0 002.19-.94A3.13 3.13 0 0021 18V7.62a3.27 3.27 0 00-3.21-3.13zM6.13 5.82h.47v.7a.68.68 0 00.63.63.68.68 0 00.62-.63v-.7h8.22v.7a.63.63 0 101.25 0v-.7h.47a1.86 1.86 0 011.8 1.72H4.25a1.93 1.93 0 011.88-1.72zm13 13.3a1.85 1.85 0 01-1.25.55H6.13a1.77 1.77 0 01-1.8-1.8V8.79h15.34v9.08a1.85 1.85 0 01-.55 1.25z"
+                    fill="#182c42"
+                  />
+                  <path
+                    d="M7.77 13.17a.86.86 0 000-1.72.86.86 0 000 1.72zM12 13.17a.86.86 0 10-.86-.86.85.85 0 00.86.86zM16.15 13.17a.86.86 0 10-.86-.86.86.86 0 00.86.86zM7.77 17.09a.86.86 0 10-.86-.86.86.86 0 00.86.86zM12 17.09a.86.86 0 10-.86-.86.86.86 0 00.86.86zM16.15 17.09a.86.86 0 000-1.72.86.86 0 000 1.72z"
+                    fill="#182c42"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-datePickerContainer-6 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-root-11"
+        data-testid="keyboardDatePicker"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          for="endDate"
+          id="endDate-label"
+        >
+          Estimated end date (optional)
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+            id="endDate"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-root-26"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M17.79 4.49h-.47v-.94a.63.63 0 10-1.25 0v1H7.85v-1a.67.67 0 00-.62-.63.67.67 0 00-.63.63v1h-.47A3.13 3.13 0 003 7.7V18a3.14 3.14 0 003.13 3.13h11.74a2.83 2.83 0 002.19-.94A3.13 3.13 0 0021 18V7.62a3.27 3.27 0 00-3.21-3.13zM6.13 5.82h.47v.7a.68.68 0 00.63.63.68.68 0 00.62-.63v-.7h8.22v.7a.63.63 0 101.25 0v-.7h.47a1.86 1.86 0 011.8 1.72H4.25a1.93 1.93 0 011.88-1.72zm13 13.3a1.85 1.85 0 01-1.25.55H6.13a1.77 1.77 0 01-1.8-1.8V8.79h15.34v9.08a1.85 1.85 0 01-.55 1.25z"
+                    fill="#182c42"
+                  />
+                  <path
+                    d="M7.77 13.17a.86.86 0 000-1.72.86.86 0 000 1.72zM12 13.17a.86.86 0 10-.86-.86.85.85 0 00.86.86zM16.15 13.17a.86.86 0 10-.86-.86.86.86 0 00.86.86zM7.77 17.09a.86.86 0 10-.86-.86.86.86 0 00.86.86zM12 17.09a.86.86 0 10-.86-.86.86.86 0 00.86.86zM16.15 17.09a.86.86 0 000-1.72.86.86 0 000 1.72z"
+                    fill="#182c42"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h4
+        class="MuiTypography-root makeStyles-timesSubheader-3 MuiTypography-h4"
+      >
+        Times
+      </h4>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter"
+          >
+            <strong>
+              9:00 AM - 5:00 PM
+            </strong>
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <span
+            class="MuiSlider-root MuiSlider-colorPrimary makeStyles-timeSlider-19"
+            data-testid="time-slider"
+          >
+            <span
+              class="MuiSlider-rail"
+            />
+            <span
+              class="MuiSlider-track"
+              style="left: 37.5%; width: 33.33333333333333%;"
+            />
+            <input
+              type="hidden"
+              value="9,17"
+            />
+            <span
+              aria-orientation="horizontal"
+              aria-valuemax="24"
+              aria-valuemin="0"
+              aria-valuenow="9"
+              class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+              data-index="0"
+              role="slider"
+              style="left: 37.5%;"
+              tabindex="0"
+            />
+            <span
+              aria-orientation="horizontal"
+              aria-valuemax="24"
+              aria-valuemin="0"
+              aria-valuenow="17"
+              class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+              data-index="1"
+              role="slider"
+              style="left: 70.83333333333333%;"
+              tabindex="0"
+            />
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-1 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

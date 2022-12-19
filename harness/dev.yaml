@@ -1,0 +1,10 @@
+# You can find instructions for customizing these configs in Bootstrapping a New Service under Kubernetes
+# with a full explanation of how the yaml files work in the templates readme.
+# https://bravo-docs.useast1.dev.omni.carezen.net/docs/gettingstarted/newservice/
+# https://github.com/care-dot-com/devops-kubernetes-templates#readme
+
+configMapSpec:
+  ${service.name}:
+    NEXT_PUBLIC_AMPLITUDE_API_KEY: 10dea83d96a1ba5919d64a523ea3bfae
+    SIFT_SCIENCE_ENABLED: 'false'
+    GOOGLE_TAG_MANAGER_ID: 'GTM-P4ZV8T4'

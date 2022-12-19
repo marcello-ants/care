@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CommunityCard matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-7 makeStyles-root-14"
+  >
+    <div
+      class="makeStyles-container-8 makeStyles-container-15"
+    >
+      <button
+        class="makeStyles-button-9 makeStyles-button-16 makeStyles-skipButton-11 makeStyles-skipButton-17"
+        type="button"
+      >
+        <div
+          class="makeStyles-buttonInnerContainer-13"
+        >
+          <div
+            class="makeStyles-iconContainer-2 makeStyles-skipIconContainer-4"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-19 makeStyles-icon-1"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M4.93 4.93a.61.61 0 01.88 0l13.26 13.26a.61.61 0 010 .88s0 .05-.11.08a.74.74 0 01-.28.05.54.54 0 01-.24-.05.67.67 0 01-.2-.14L4.93 5.81a.61.61 0 010-.88z"
+                fill="#223f5f"
+                fill-rule="evenodd"
+              />
+              <path
+                d="M5.81 4.93l-.29.28zm-.88 0l.28.28zm14.14 13.26l.28-.28zm0 .88l-.28-.28zm0 0l-.28-.29-.05.05v.06zm0 0l-.41-.07zm-.11.08l.15.37zm-.52 0l.16-.36zm-.2-.14l-.28.28zM4.93 5.81l.28-.29zm1.16-1.16a1 1 0 00-1.44 0l.56.56a.21.21 0 01.31 0zm13.26 13.26L6.09 4.65l-.57.56 13.27 13.27zm0 1.44a1 1 0 000-1.44l-.56.57a.21.21 0 010 .31zm0 0l-.56-.56zm.06-.07l-.72-.36zm-.32.27a.6.6 0 00.32-.27l-.75-.28c0-.05.07-.08.08-.1zm-.43.08a1.22 1.22 0 00.43-.08l-.3-.74a.31.31 0 01-.13 0zm-.4-.08a1 1 0 00.4.08v-.8h-.08zm-.32-.23a1 1 0 00.32.23l.32-.73a.18.18 0 01-.07-.06zM4.65 6.09l13.26 13.26.57-.56L5.21 5.52zm0-1.44a1 1 0 000 1.44l.56-.57a.21.21 0 010-.31z"
+                fill="#223f5f"
+              />
+              <path
+                d="M18.19 4.93a.62.62 0 11.88.88L5.9 19.07a.72.72 0 01-.52.19.54.54 0 01-.24-.05.56.56 0 01-.2-.14.61.61 0 010-.88z"
+                fill="#223f5f"
+                fill-rule="evenodd"
+              />
+              <path
+                d="M19.07 4.93l.28-.28zm-.88 0l-.28-.28zm.88.88l-.28-.29zm0 0l-.29-.28zM5.9 19.07l.28.28zm0 0l.29.28zm-.76.14l-.14.37zm-.2-.14l.28-.28zm0-.88l-.28-.28zM19.35 4.65a1 1 0 00-1.44 0l.57.56a.21.21 0 01.31 0zm0 1.44a1 1 0 000-1.44l-.56.56a.21.21 0 010 .31zm0 0l-.56-.57zM6.18 19.35L19.35 6.09l-.57-.56L5.61 18.79zm0 0l-.57-.56zm-.81.31a1.16 1.16 0 00.81-.31l-.57-.56a.39.39 0 01-.24.07zM5 19.58a1 1 0 00.4.08v-.8h-.11zm-.32-.23a1 1 0 00.32.23l.32-.73a.24.24 0 01-.08-.06zm0-1.44a1 1 0 000 1.44l.56-.56a.21.21 0 010-.31zM17.91 4.65L4.65 17.91l.56.57L18.48 5.21z"
+                fill="#223f5f"
+              />
+            </svg>
+             
+          </div>
+          <h4
+            class="MuiTypography-root MuiTypography-h4"
+          >
+            Skip
+          </h4>
+        </div>
+      </button>
+      <button
+        class="makeStyles-button-9 makeStyles-button-16 makeStyles-addButton-12 makeStyles-addButton-18"
+        type="button"
+      >
+        <div
+          class="makeStyles-buttonInnerContainer-13"
+        >
+          <div
+            class="makeStyles-iconContainer-2 makeStyles-addIconContainer-5"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-root-34 makeStyles-icon-1"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M8.89 19.1a1 1 0 01-.74-.33l-5.22-5.85A1 1 0 013 11.51a1 1 0 011.42.08l4.47 5L19.34 5.37a1 1 0 111.46 1.36L9.62 18.78a1 1 0 01-.73.32z"
+                fill="#172c42"
+              />
+            </svg>
+             
+          </div>
+          <h4
+            class="MuiTypography-root MuiTypography-h4"
+          >
+            Save
+          </h4>
+        </div>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

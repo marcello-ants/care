@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FullWidthWithPadding Layout component matches snapshot 1`] = `
+<DocumentFragment>
+  <main>
+    <div
+      class="MuiContainer-root makeStyles-root-1 MuiContainer-maxWidthLg"
+    >
+      <div
+        class="makeStyles-content-2"
+      >
+        test
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;

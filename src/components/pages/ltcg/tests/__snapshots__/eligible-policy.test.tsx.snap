@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EligiblePolicy matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-iconContainer-2"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root makeStyles-root-4"
+      focusable="false"
+      viewBox="0 0 64 64"
+    >
+      <circle
+        cx="32"
+        cy="32"
+        fill="#00a779"
+        r="26.7"
+      />
+      <path
+        d="M28.65 39.88a1.1 1.1 0 01-.83-.38L22 32.94a1.12 1.12 0 01.09-1.58 1.13 1.13 0 011.59.09l5 5.64 11.7-12.61A1.12 1.12 0 1142 26L29.47 39.52a1.11 1.11 0 01-.82.36z"
+        fill="#fff"
+      />
+      <path
+        d="M28.65 40.24a1.49 1.49 0 01-1.09-.5l-5.84-6.56a1.4 1.4 0 01-.37-1.07 1.42 1.42 0 01.49-1 1.46 1.46 0 012.08.12l4.76 5.34 11.43-12.33a1.42 1.42 0 011-.47 1.44 1.44 0 011.06.39 1.47 1.47 0 01.08 2.09L29.74 39.76a1.51 1.51 0 01-1.09.48zm-5.84-8.81a.78.78 0 00-.51.2.74.74 0 00-.25.53.7.7 0 00.19.55l5.84 6.56a.75.75 0 00.56.25.78.78 0 00.56-.24l12.55-13.52a.76.76 0 000-1.08.71.71 0 00-.55-.2.77.77 0 00-.53.24l-12 12.9-5.28-5.93a.76.76 0 00-.58-.26z"
+        fill="#fff"
+      />
+    </svg>
+  </div>
+  <h2
+    class="MuiTypography-root makeStyles-header-5 MuiTypography-h2"
+  >
+    Good news! Your policy is eligible for use with Care.com.
+  </h2>
+  <h4
+    class="MuiTypography-root makeStyles-pillTitle-1 MuiTypography-h4"
+  >
+    Do you need to find a caregiver?
+  </h4>
+  <ul
+    class="MuiList-root makeStyles-selector-3 MuiList-padding"
+  >
+    <li
+      class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+    >
+      <input
+        class="makeStyles-input-10"
+        id="selector.undefined.0"
+        name=""
+        readonly=""
+        type="radio"
+        value="YES"
+      />
+      <div
+        class="makeStyles-controlIndicator-11 md"
+        tabindex="0"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+        >
+          <div>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              Yes
+            </p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      class="MuiListItem-root makeStyles-root-7 pill MuiListItem-gutters"
+    >
+      <input
+        class="makeStyles-input-10"
+        id="selector.undefined.1"
+        name=""
+        readonly=""
+        type="radio"
+        value="NO"
+      />
+      <div
+        class="makeStyles-controlIndicator-11 md"
+        tabindex="0"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"
+        >
+          <div>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              No
+            </p>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

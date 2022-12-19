@@ -1,0 +1,558 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CaregiverListPage matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-page-1"
+  >
+    <div
+      class="makeStyles-header-8"
+    >
+      <div
+        class="makeStyles-container-10"
+      >
+        <h2
+          class="MuiTypography-root makeStyles-headerText-9 MuiTypography-h2"
+        >
+          <span>
+            Here's a personalized list of caregivers based on your needs
+          </span>
+        </h2>
+        <p
+          class="MuiTypography-root makeStyles-subheader-11 MuiTypography-body1"
+        >
+          <span>
+            Pick the ones that you like.
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      class="makeStyles-root-26"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-35 makeStyles-card-27 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="caregiverCard"
+      >
+        <div
+          class="MuiCardHeader-root makeStyles-cardHeader-28"
+        >
+          <div
+            class="MuiCardHeader-avatar"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-36 makeStyles-colorDefault-37 makeStyles-xLarge-41 MuiAvatar-colorDefault"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiAvatar-fallback"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardHeader-content makeStyles-cardHeaderContent-29"
+          >
+            <span
+              class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Olivia D.
+              </h3>
+              <div>
+                <span
+                  aria-label="5 Stars"
+                  class="MuiRating-root MuiRating-sizeSmall MuiRating-readOnly"
+                  role="img"
+                >
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-49"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-50"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-51"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-52"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-53"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+                <p
+                  class="MuiTypography-root makeStyles-info1-16 MuiTypography-body1"
+                >
+                  (3)
+                </p>
+              </div>
+            </span>
+            <span
+              class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-15 makeStyles-text-32 MuiTypography-body1"
+              >
+                <span>
+                  Austin, TX
+                </span>
+                <span>
+                   •
+                </span>
+                 
+                <span>
+                  1
+                </span>
+                <span>
+                   mi away
+                </span>
+                <br />
+                <span>
+                  $25-30/hr • 10 yrs exp.
+                </span>
+              </p>
+            </span>
+          </div>
+          <div
+            class="MuiCardHeader-action"
+          >
+            <div
+              class="MuiContainer-root makeStyles-favoriteIcon-31 MuiContainer-maxWidthLg"
+              data-testid="favoriteButton"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-54"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 19.9a1.89 1.89 0 01-.76-.12A5.54 5.54 0 019.79 19l-.31-.21c-.55-.35-1.08-.78-1.6-1.19-1-.84-1.92-1.68-2.79-2.6-1.2-1.24-2.52-2.61-2.9-4.26a5.5 5.5 0 012.17-5.67 5.49 5.49 0 012.73-1 5.63 5.63 0 013.55.93c.13.08.25.18.38.27a3.4 3.4 0 00.28.21.8.8 0 01.21.12h.24l.15.07a.4.4 0 00.37 0l.2-.07h.19a2.48 2.48 0 01.34-.19l.21-.16a4.39 4.39 0 01.34-.25 5.74 5.74 0 013.52-.85 5.89 5.89 0 012.72.93 5.83 5.83 0 012 5.7A10.48 10.48 0 0119 15a26.39 26.39 0 01-2.84 2.66c-.51.4-1 .83-1.59 1.18l-.31.21a5.54 5.54 0 01-1.45.77 2 2 0 01-.81.08zM7.57 5.6h-.35a4.06 4.06 0 00-2 .68 4 4 0 00-1.58 4.12c.29 1.25 1.46 2.46 2.49 3.53.86.91 1.8 1.73 2.7 2.52.46.37 1 .77 1.44 1.08l.35.23a4.31 4.31 0 001.06.58h.13a1.15 1.15 0 00.37 0h.12a4 4 0 001.07-.58l.34-.23a17.44 17.44 0 001.46-1.1A23.9 23.9 0 0017.82 14a9.5 9.5 0 002.54-3.59 4.31 4.31 0 00-1.43-4.12 4.6 4.6 0 00-2-.66 4.19 4.19 0 00-2.59.63 2.83 2.83 0 00-.28.2 4.39 4.39 0 01-.39.28l-.21.12-.28.14-.2.07-.16.06a1.85 1.85 0 01-1.46 0l-.16-.06L11 7l-.3-.17-.13-.08a4.56 4.56 0 01-.47-.32l-.29-.21a4 4 0 00-2.24-.62z"
+                  fill="#23405f"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root makeStyles-cardContent-30"
+        >
+          <div
+            data-testid="quotes-icon"
+          >
+            <svg
+              fill="none"
+              height="32"
+              width="32"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <mask
+                height="32"
+                id="a"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="32"
+                x="0"
+                y="0"
+              >
+                <rect
+                  fill="#F5F5F5"
+                  height="31"
+                  rx="15.5"
+                  stroke="#979797"
+                  transform="rotate(-90 .5 31.5)"
+                  width="31"
+                  x=".5"
+                  y="31.5"
+                />
+              </mask>
+              <g
+                mask="url(#a)"
+              >
+                <mask
+                  height="34"
+                  id="b"
+                  mask-type="alpha"
+                  maskUnits="userSpaceOnUse"
+                  width="34"
+                  x="-1"
+                  y="0"
+                >
+                  <path
+                    d="M-1 0h34v34H-1z"
+                    fill="#fff"
+                  />
+                </mask>
+                <g
+                  mask="url(#b)"
+                >
+                  <path
+                    d="M-1.327 0h34v34h-34z"
+                    fill="#E6E8EA"
+                  />
+                </g>
+              </g>
+              <path
+                d="M21.037 16.694c.017-.108.034-.206.05-.29.324-1.8 1.183-3.498 2.497-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.827 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.001c-.818-.887-2.28-1.118-3.415-.538zM11.143 16.694l.05-.29c.325-1.8 1.184-3.498 2.498-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.828 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.002c-.817-.887-2.279-1.118-3.414-.538z"
+                fill="#B3BAC1"
+              />
+              <path
+                d="M23.463 16.695c-.784-.646-1.892-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.742 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014zM13.57 16.695c-.784-.646-1.893-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.743 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014z"
+                stroke="#213F5F"
+                stroke-width=".8"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-body3-15 makeStyles-text-32 makeStyles-readMore-33 MuiTypography-body1"
+          >
+            I am a CNA who’s been working in this field for more than 10 years. I enjoy...
+            <noscript />
+          </p>
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiCard-root makeStyles-contrast-35 makeStyles-card-27 MuiPaper-elevation1 MuiPaper-rounded"
+        data-testid="caregiverCard"
+      >
+        <div
+          class="MuiCardHeader-root makeStyles-cardHeader-28"
+        >
+          <div
+            class="MuiCardHeader-avatar"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-rounded makeStyles-default-36 makeStyles-colorDefault-37 makeStyles-xLarge-41 MuiAvatar-colorDefault"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiAvatar-fallback"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardHeader-content makeStyles-cardHeaderContent-29"
+          >
+            <span
+              class="MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h3"
+              >
+                Paola T.
+              </h3>
+              <div>
+                <span
+                  aria-label="5 Stars"
+                  class="MuiRating-root MuiRating-sizeSmall MuiRating-readOnly"
+                  role="img"
+                >
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-56"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-57"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-58"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-59"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="MuiRating-icon MuiRating-iconFilled"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-root-60"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M8.729 7.218l.477-1.305 1.212-3.318C10.775 1.62 11.325 1 12.098 1c.791 0 1.337.64 1.672 1.64l1.123 3.35.706 2.106 4.017.134 1.777.06c2.299.076 2.848 1.834.991 3.192l-1.432 1.048-1.433 1.048-1.795 1.314.23.794c.198.667.323 1.094.38 1.337l.992 3.39c.398 1.374.038 2.525-1.21 2.525-.477 0-.986-.213-1.527-.598l-4.715-3.348-4.803 3.222c-.535.36-1.036.557-1.5.557-1.274 0-1.626-1.173-1.187-2.554l.54-1.685c.304-.957.467-1.47.541-1.685l.67-2.11-1.762-1.363-2.805-2.17C-.25 9.798.348 8.057 2.646 8.041l1.776-.012 4.02-.028.287-.783z"
+                        />
+                      </svg>
+                    </span>
+                  </span>
+                </span>
+                <p
+                  class="MuiTypography-root makeStyles-info1-16 MuiTypography-body1"
+                >
+                  (2)
+                </p>
+              </div>
+            </span>
+            <span
+              class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+            >
+              <p
+                class="MuiTypography-root makeStyles-body3-15 makeStyles-text-32 MuiTypography-body1"
+              >
+                <span>
+                  Austin, TX
+                </span>
+                <span>
+                   •
+                </span>
+                 
+                <span>
+                  2
+                </span>
+                <span>
+                   mi away
+                </span>
+                <br />
+                <span>
+                  $20-25/hr • 6 yrs exp.
+                </span>
+              </p>
+            </span>
+          </div>
+          <div
+            class="MuiCardHeader-action"
+          >
+            <div
+              class="MuiContainer-root makeStyles-favoriteIcon-31 MuiContainer-maxWidthLg"
+              data-testid="favoriteButton"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-root-61"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 19.9a1.89 1.89 0 01-.76-.12A5.54 5.54 0 019.79 19l-.31-.21c-.55-.35-1.08-.78-1.6-1.19-1-.84-1.92-1.68-2.79-2.6-1.2-1.24-2.52-2.61-2.9-4.26a5.5 5.5 0 012.17-5.67 5.49 5.49 0 012.73-1 5.63 5.63 0 013.55.93c.13.08.25.18.38.27a3.4 3.4 0 00.28.21.8.8 0 01.21.12h.24l.15.07a.4.4 0 00.37 0l.2-.07h.19a2.48 2.48 0 01.34-.19l.21-.16a4.39 4.39 0 01.34-.25 5.74 5.74 0 013.52-.85 5.89 5.89 0 012.72.93 5.83 5.83 0 012 5.7A10.48 10.48 0 0119 15a26.39 26.39 0 01-2.84 2.66c-.51.4-1 .83-1.59 1.18l-.31.21a5.54 5.54 0 01-1.45.77 2 2 0 01-.81.08zM7.57 5.6h-.35a4.06 4.06 0 00-2 .68 4 4 0 00-1.58 4.12c.29 1.25 1.46 2.46 2.49 3.53.86.91 1.8 1.73 2.7 2.52.46.37 1 .77 1.44 1.08l.35.23a4.31 4.31 0 001.06.58h.13a1.15 1.15 0 00.37 0h.12a4 4 0 001.07-.58l.34-.23a17.44 17.44 0 001.46-1.1A23.9 23.9 0 0017.82 14a9.5 9.5 0 002.54-3.59 4.31 4.31 0 00-1.43-4.12 4.6 4.6 0 00-2-.66 4.19 4.19 0 00-2.59.63 2.83 2.83 0 00-.28.2 4.39 4.39 0 01-.39.28l-.21.12-.28.14-.2.07-.16.06a1.85 1.85 0 01-1.46 0l-.16-.06L11 7l-.3-.17-.13-.08a4.56 4.56 0 01-.47-.32l-.29-.21a4 4 0 00-2.24-.62z"
+                  fill="#23405f"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root makeStyles-cardContent-30"
+        >
+          <div
+            data-testid="quotes-icon"
+          >
+            <svg
+              fill="none"
+              height="32"
+              width="32"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <mask
+                height="32"
+                id="a"
+                mask-type="alpha"
+                maskUnits="userSpaceOnUse"
+                width="32"
+                x="0"
+                y="0"
+              >
+                <rect
+                  fill="#F5F5F5"
+                  height="31"
+                  rx="15.5"
+                  stroke="#979797"
+                  transform="rotate(-90 .5 31.5)"
+                  width="31"
+                  x=".5"
+                  y="31.5"
+                />
+              </mask>
+              <g
+                mask="url(#a)"
+              >
+                <mask
+                  height="34"
+                  id="b"
+                  mask-type="alpha"
+                  maskUnits="userSpaceOnUse"
+                  width="34"
+                  x="-1"
+                  y="0"
+                >
+                  <path
+                    d="M-1 0h34v34H-1z"
+                    fill="#fff"
+                  />
+                </mask>
+                <g
+                  mask="url(#b)"
+                >
+                  <path
+                    d="M-1.327 0h34v34h-34z"
+                    fill="#E6E8EA"
+                  />
+                </g>
+              </g>
+              <path
+                d="M21.037 16.694c.017-.108.034-.206.05-.29.324-1.8 1.183-3.498 2.497-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.827 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.001c-.818-.887-2.28-1.118-3.415-.538zM11.143 16.694l.05-.29c.325-1.8 1.184-3.498 2.498-4.93.767-.84-.61-2.03-1.385-1.183v-.001c-1.377 1.463-2.35 3.17-2.846 4.999-.376 1.45-.828 3.802.04 5.18 1.478 2.348 7.419-.763 5.06-3.237h-.002c-.817-.887-2.279-1.118-3.414-.538z"
+                fill="#B3BAC1"
+              />
+              <path
+                d="M23.463 16.695c-.784-.646-1.892-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.742 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014zM13.57 16.695c-.784-.646-1.893-.869-2.903-.62.36-1.573 1.15-3.058 2.317-4.33l.001-.002c.271-.297.368-.65.316-.989a1.353 1.353 0 0 0-.465-.808c-.233-.2-.54-.338-.87-.346a1.238 1.238 0 0 0-.957.421l.055.062c-1.301 1.452-2.506 3.312-2.992 5.101l-.001.005c-.19.735-.405 1.715-.458 2.695-.053.97.047 2.003.548 2.797.466.743 1.271 1.02 2.084 1.02.81 0 1.686-.27 2.422-.696.732-.422 1.38-1.028 1.673-1.741.15-.363.209-.757.132-1.161-.077-.405-.285-.792-.624-1.147l-.262-.275-.016.014z"
+                stroke="#213F5F"
+                stroke-width=".8"
+              />
+            </svg>
+          </div>
+          <p
+            class="MuiTypography-root makeStyles-body3-15 makeStyles-text-32 makeStyles-readMore-33 MuiTypography-body1"
+          >
+            Current CNA/HHA certification. Hospital and hospice experience. Cardiolo...
+            <noscript />
+          </p>
+        </div>
+      </div>
+      <a
+        class="MuiTypography-root MuiLink-root makeStyles-root-62 MuiLink-underlineNone makeStyles-skipLink-7 MuiTypography-colorPrimary"
+        href="#"
+      >
+        <p
+          class="MuiTypography-root makeStyles-link2-23 MuiTypography-body1"
+        >
+          Skip and view all
+        </p>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

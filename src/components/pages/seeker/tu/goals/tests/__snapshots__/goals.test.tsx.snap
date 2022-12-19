@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`What are your tutoring goals page matches snapshots 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-7 makeStyles-banner-1"
+  >
+    <div
+      class="makeStyles-root-8"
+    >
+      <div
+        class="makeStyles-content-9 makeStyles-information-13 makeStyles-roundCorners-11"
+        style="width: 100%;"
+      >
+        <div
+          class="makeStyles-icon-12"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-root-18"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M2 12a10 10 0 1110 10A10 10 0 012 12zm1.32 0a8.64 8.64 0 108.59-8.68A8.68 8.68 0 003.32 12z"
+              fill="#182c42"
+            />
+            <path
+              d="M12 17a.83.83 0 00.82-.83v-5.45a.83.83 0 10-1.65 0v5.45A.78.78 0 0012 17zM12 8.65a.83.83 0 10-.83-.82.82.82 0 00.83.82z"
+              fill="#182c42"
+            />
+          </svg>
+        </div>
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+            data-testid="tutors-nearby"
+          >
+            Nice! 100 tutors are good matches
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-mainContainer-3 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-33 MuiTypography-h2"
+      >
+        What are your tutoring goals?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-goalsWrapper-4 MuiGrid-item MuiGrid-grid-xs-true"
+    >
+      <div
+        class="MuiFormGroup-root"
+      >
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="BUILD_CONFIDENCE"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Build confidence
+          </span>
+        </label>
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="SUPPORT_FOR_PROBLEM_AREAS"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Support for problem areas
+          </span>
+        </label>
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="IMPROVE_GRADES"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Improve grades
+          </span>
+        </label>
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="BOOST_TEST_SCORES"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Boost test scores
+          </span>
+        </label>
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="HOMEWORK_HELP"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Homework help
+          </span>
+        </label>
+        <label
+          class="MuiFormControlLabel-root makeStyles-goals-5 MuiFormControlLabel-labelPlacementStart"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-34 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-37"
+                data-indeterminate="false"
+                name="OTHER"
+                type="checkbox"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </span>
+          <span
+            class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+          >
+            Other
+          </span>
+        </label>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-nextButtonContainer-6 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

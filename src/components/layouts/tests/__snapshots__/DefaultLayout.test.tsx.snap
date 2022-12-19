@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Default Layout component matches rebranded snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root makeStyles-root-4 makeStyles-root-6 MuiContainer-maxWidthLg"
+  >
+    <div
+      class="makeStyles-content-5"
+    >
+      test
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Default Layout component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root makeStyles-root-1 makeStyles-root-3 MuiContainer-maxWidthLg"
+  >
+    <div
+      class="makeStyles-content-2"
+    >
+      test
+    </div>
+  </div>
+</DocumentFragment>
+`;

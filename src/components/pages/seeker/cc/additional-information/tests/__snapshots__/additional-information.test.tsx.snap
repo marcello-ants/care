@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Additional information about child matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-additionalInformation-2 MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-sectionOneTitle-1 MuiTypography-h2 MuiTypography-colorTextPrimary"
+      >
+        Anything else you want to tell us?
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-informationText-3"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root makeStyles-optionalLabel-5 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink"
+          data-shrink="true"
+        >
+          Optional notes
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-multiline MuiInput-multiline"
+        >
+          <textarea
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInput-inputMultiline"
+            maxlength="850"
+            name="additionalInformation"
+            placeholder="Ex: Our pint-sized Lego engineer loves to climb on furniture to view our floor space from up high. He's an intelligent old soul that questions everything."
+            rows="12"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-buttonContainer-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

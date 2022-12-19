@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeadlineBio Page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-14 MuiTypography-h2"
+      >
+        Help your profile stand out!
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-descriptionParagraph-3 MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body2"
+      >
+        Showcase your personality and professionalism by writing a short bio for potential employers.
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-listSection-4 MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-h5"
+      >
+        You can mention:
+      </p>
+      <ul
+        class="makeStyles-list-10"
+      >
+        <li>
+          <p
+            class="MuiTypography-root makeStyles-body3-18 MuiTypography-body1"
+          >
+            Your prior senior care experience
+          </p>
+        </li>
+        <li>
+          <p
+            class="MuiTypography-root makeStyles-body3-18 MuiTypography-body1"
+          >
+            Why you love working with seniors
+          </p>
+        </li>
+        <li>
+          <p
+            class="MuiTypography-root makeStyles-body3-18 MuiTypography-body1"
+          >
+            Any additional relevant information
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-headlineInputContainer-5"
+      >
+        <div
+          aria-hidden="true"
+          class="makeStyles-container-29"
+          style="width: 0px; height: -1px; margin-left: 0px; margin-top: 12px; white-space: pre;"
+        >
+          <div
+            class="makeStyles-text-30"
+            style="margin-top: 0px; margin-left: 0px;"
+          />
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-root-31"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink"
+            data-shrink="true"
+            for="headlineInput"
+            id="headlineInput-label"
+          >
+            Headline (optional)
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input"
+              data-testid="headline-details"
+              id="headlineInput"
+              name="headline"
+              placeholder="Share details here"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <span
+          class="makeStyles-charactersLabel-9"
+        >
+          0
+          <span>
+            /
+          </span>
+          <span>
+            50
+          </span>
+          <span>
+             characters
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="makeStyles-textAreaContainer-11"
+      >
+        <div
+          aria-hidden="true"
+          class="makeStyles-container-29"
+          style="width: -10px; height: 5px; margin-left: 0px; margin-top: 0px; white-space: pre-wrap; font: -webkit-small-control;"
+        >
+          <div
+            class="makeStyles-text-30"
+            style="margin-top: 0px; margin-left: 0px;"
+          />
+        </div>
+        <div
+          class="makeStyles-wrapper-32 makeStyles-fullWidth-33"
+        >
+          <label
+            class="makeStyles-label-38"
+            for="bioInput"
+          >
+            Share additional skills
+          </label>
+          <div
+            class="makeStyles-textareaWrapper-35 makeStyles-textAreaWrapperHover-36 makeStyles-fullWidth-33"
+          >
+            <textarea
+              class="makeStyles-root-37 makeStyles-textareaFullWidth-34"
+              data-testid="TextArea"
+              id="bioInput"
+              name="bio"
+              placeholder="Share details here"
+              rows="4"
+              style="resize: vertical; height: 0px; overflow: hidden;"
+            />
+            <textarea
+              aria-hidden="true"
+              class="makeStyles-root-37 makeStyles-textareaFullWidth-34"
+              readonly=""
+              style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); resize: vertical; width: 100%;"
+              tabindex="-1"
+            />
+          </div>
+        </div>
+      </div>
+      <span>
+        <span
+          class="makeStyles-errorLabel-7"
+        />
+        <span
+          class="makeStyles-charactersLabel-9"
+        >
+          Minimum 100 characters
+        </span>
+      </span>
+    </div>
+    <div
+      class="makeStyles-wrapper-45"
+    >
+      <div
+        class="makeStyles-fade-46"
+        style="position: relative; width: auto; margin-bottom: -24px; padding: 32px 40px 24px;"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Next
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
